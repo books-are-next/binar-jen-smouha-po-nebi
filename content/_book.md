@@ -1,36 +1,52 @@
 ---
 outputs: meta
 slug: book
-
-languageCode: en-US
+contentType: prose
+languageCode: en
 meta:
-  title: "Next-book Boilerplate"
-  author: "Author Name"
-  publisher: mkp
-  published: 2020
-  keywords: []
-  edition: beletrie
-chapters:
-  - where-i-lived-and-what-i-lived-for.html
-  - reading.html
-  - sounds.html
-  - solitude.html
+  title: Jen šmouha po nebi
+  identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
+  author: Ivan Binar
+  publisher: Městská knihovna v Praze
+  modified: '2022-03-08T00:00:00.000Z'
+readingOrder:
+  - jen_smouha_po_nebi_001.html
+  - jen_smouha_po_nebi_002.html
+  - jen_smouha_po_nebi_003.html
+  - jen_smouha_po_nebi_004.html
+  - jen_smouha_po_nebi_005.html
+  - jen_smouha_po_nebi_006.html
+  - jen_smouha_po_nebi_007.html
+  - jen_smouha_po_nebi_008.html
+  - jen_smouha_po_nebi_009.html
+  - jen_smouha_po_nebi_010.html
+  - jen_smouha_po_nebi_011.html
+  - jen_smouha_po_nebi_012.html
+  - jen_smouha_po_nebi_013.html
+  - jen_smouha_po_nebi_014.html
+  - jen_smouha_po_nebi_015.html
+  - jen_smouha_po_nebi_016.html
+  - jen_smouha_po_nebi_017.html
+  - jen_smouha_po_nebi_018.html
+  - jen_smouha_po_nebi_019.html
+  - jen_smouha_po_nebi_020.html
+  - jen_smouha_po_nebi_021.html
+  - jen_smouha_po_nebi_022.html
+  - jen_smouha_po_nebi_023.html
+  - jen_smouha_po_nebi_024.html
+  - jen_smouha_po_nebi_025.html
+  - jen_smouha_po_nebi_026.html
+  - jen_smouha_po_nebi_027.html
 tocBase:
-  - link: where-i-lived-and-what-i-lived-for.html
-    title: Where-i-lived-and-what-i-lived-for
-    numberedChildren: true;
-    children:
-      - link: reading.html
-        title: Reading
-      - link: sounds.html
-        title: Sounds
-  - link: solitude.html
-    title: Solitude
+  - id: section-1
+    children: []
+    isSection: true
 static:
   - style
   - scripts
+  - title
   - fonts
-  - images
+  - resources
   - template-images
   - favicon.png
 ---
