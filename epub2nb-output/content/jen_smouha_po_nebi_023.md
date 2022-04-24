@@ -1,8 +1,7 @@
 ---
+title: XVII
 contentType: prose
 ---
-
-XVII
 
   
 

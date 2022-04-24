@@ -1,8 +1,7 @@
 ---
+title: XII
 contentType: prose
 ---
-
-XII
 
   
 

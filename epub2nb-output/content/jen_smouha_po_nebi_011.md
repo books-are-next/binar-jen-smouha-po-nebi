@@ -1,8 +1,7 @@
 ---
+title: V
 contentType: prose
 ---
-
-V
 
   
 

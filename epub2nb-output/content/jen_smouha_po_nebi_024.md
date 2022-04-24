@@ -1,8 +1,7 @@
 ---
+title: XVIII
 contentType: prose
 ---
-
-XVIII
 
   
 

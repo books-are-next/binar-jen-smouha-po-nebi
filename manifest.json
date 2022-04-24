@@ -1,0 +1,509 @@
+{
+  "author": "Ivan Binar",
+  "contenttype": "prose",
+  "identifier": "binar-jen-smouha-po-nebi-9bad31f",
+  "isbn": "978-80-274-2190-9",
+  "languagecode": "cs",
+  "modified": "2022-03-08T00:00:00.000Z",
+  "publisher": "Městská knihovna v Praze",
+  "title": "Jen šmouha po nebi",
+  "revision": "9bad31f",
+  "generatedAt": {
+    "date": "Sun Apr 24 2022 11:39:54 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1650800394270
+  },
+  "documents": [
+    {
+      "title": "Jen šmouha po nebi",
+      "file": "jen_smouha_po_nebi_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "jen_smouha_po_nebi_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jen šmouha po nebi",
+      "file": "jen_smouha_po_nebi_005.html",
+      "words": 27,
+      "chars": 174,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 1,
+      "prev": "jen_smouha_po_nebi_002.html",
+      "next": "jen_smouha_po_nebi_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jen šmouha po nebi",
+      "file": "jen_smouha_po_nebi_006.html",
+      "words": 182,
+      "chars": 1131,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 2,
+      "prev": "jen_smouha_po_nebi_005.html",
+      "next": "jen_smouha_po_nebi_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "I • Jen šmouha po nebi",
+      "file": "jen_smouha_po_nebi_007.html",
+      "words": 2353,
+      "chars": 14156,
+      "ideas": 48,
+      "role": "chapter",
+      "order": 3,
+      "prev": "jen_smouha_po_nebi_006.html",
+      "next": "jen_smouha_po_nebi_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "I",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "II • Jen šmouha po nebi",
+      "file": "jen_smouha_po_nebi_008.html",
+      "words": 2502,
+      "chars": 15179,
+      "ideas": 43,
+      "role": "chapter",
+      "order": 4,
+      "prev": "jen_smouha_po_nebi_007.html",
+      "next": "jen_smouha_po_nebi_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "II",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "III • Jen šmouha po nebi",
+      "file": "jen_smouha_po_nebi_009.html",
+      "words": 3966,
+      "chars": 23888,
+      "ideas": 90,
+      "role": "chapter",
+      "order": 5,
+      "prev": "jen_smouha_po_nebi_008.html",
+      "next": "jen_smouha_po_nebi_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "III",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IV • Jen šmouha po nebi",
+      "file": "jen_smouha_po_nebi_010.html",
+      "words": 3051,
+      "chars": 19031,
+      "ideas": 80,
+      "role": "chapter",
+      "order": 6,
+      "prev": "jen_smouha_po_nebi_009.html",
+      "next": "jen_smouha_po_nebi_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V • Jen šmouha po nebi",
+      "file": "jen_smouha_po_nebi_011.html",
+      "words": 3043,
+      "chars": 19010,
+      "ideas": 54,
+      "role": "chapter",
+      "order": 7,
+      "prev": "jen_smouha_po_nebi_010.html",
+      "next": "jen_smouha_po_nebi_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VI • Jen šmouha po nebi",
+      "file": "jen_smouha_po_nebi_012.html",
+      "words": 3683,
+      "chars": 22161,
+      "ideas": 86,
+      "role": "chapter",
+      "order": 8,
+      "prev": "jen_smouha_po_nebi_011.html",
+      "next": "jen_smouha_po_nebi_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VII • Jen šmouha po nebi",
+      "file": "jen_smouha_po_nebi_013.html",
+      "words": 2473,
+      "chars": 14936,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 9,
+      "prev": "jen_smouha_po_nebi_012.html",
+      "next": "jen_smouha_po_nebi_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VIII • Jen šmouha po nebi",
+      "file": "jen_smouha_po_nebi_014.html",
+      "words": 2404,
+      "chars": 14696,
+      "ideas": 56,
+      "role": "chapter",
+      "order": 10,
+      "prev": "jen_smouha_po_nebi_013.html",
+      "next": "jen_smouha_po_nebi_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IX • Jen šmouha po nebi",
+      "file": "jen_smouha_po_nebi_015.html",
+      "words": 2099,
+      "chars": 12909,
+      "ideas": 40,
+      "role": "chapter",
+      "order": 11,
+      "prev": "jen_smouha_po_nebi_014.html",
+      "next": "jen_smouha_po_nebi_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "X • Jen šmouha po nebi",
+      "file": "jen_smouha_po_nebi_016.html",
+      "words": 1687,
+      "chars": 10352,
+      "ideas": 44,
+      "role": "chapter",
+      "order": 12,
+      "prev": "jen_smouha_po_nebi_015.html",
+      "next": "jen_smouha_po_nebi_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "X",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XI • Jen šmouha po nebi",
+      "file": "jen_smouha_po_nebi_017.html",
+      "words": 3888,
+      "chars": 23618,
+      "ideas": 97,
+      "role": "chapter",
+      "order": 13,
+      "prev": "jen_smouha_po_nebi_016.html",
+      "next": "jen_smouha_po_nebi_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XII • Jen šmouha po nebi",
+      "file": "jen_smouha_po_nebi_018.html",
+      "words": 3164,
+      "chars": 19269,
+      "ideas": 67,
+      "role": "chapter",
+      "order": 14,
+      "prev": "jen_smouha_po_nebi_017.html",
+      "next": "jen_smouha_po_nebi_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIII • Jen šmouha po nebi",
+      "file": "jen_smouha_po_nebi_019.html",
+      "words": 3366,
+      "chars": 20746,
+      "ideas": 102,
+      "role": "chapter",
+      "order": 15,
+      "prev": "jen_smouha_po_nebi_018.html",
+      "next": "jen_smouha_po_nebi_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIV • Jen šmouha po nebi",
+      "file": "jen_smouha_po_nebi_020.html",
+      "words": 3940,
+      "chars": 24006,
+      "ideas": 98,
+      "role": "chapter",
+      "order": 16,
+      "prev": "jen_smouha_po_nebi_019.html",
+      "next": "jen_smouha_po_nebi_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XV • Jen šmouha po nebi",
+      "file": "jen_smouha_po_nebi_021.html",
+      "words": 3449,
+      "chars": 20607,
+      "ideas": 89,
+      "role": "chapter",
+      "order": 17,
+      "prev": "jen_smouha_po_nebi_020.html",
+      "next": "jen_smouha_po_nebi_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVI • Jen šmouha po nebi",
+      "file": "jen_smouha_po_nebi_022.html",
+      "words": 3972,
+      "chars": 23939,
+      "ideas": 74,
+      "role": "chapter",
+      "order": 18,
+      "prev": "jen_smouha_po_nebi_021.html",
+      "next": "jen_smouha_po_nebi_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVII • Jen šmouha po nebi",
+      "file": "jen_smouha_po_nebi_023.html",
+      "words": 3708,
+      "chars": 22024,
+      "ideas": 59,
+      "role": "chapter",
+      "order": 19,
+      "prev": "jen_smouha_po_nebi_022.html",
+      "next": "jen_smouha_po_nebi_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVIII • Jen šmouha po nebi",
+      "file": "jen_smouha_po_nebi_024.html",
+      "words": 4441,
+      "chars": 26666,
+      "ideas": 84,
+      "role": "chapter",
+      "order": 20,
+      "prev": "jen_smouha_po_nebi_023.html",
+      "next": "jen_smouha_po_nebi_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIX • Jen šmouha po nebi",
+      "file": "jen_smouha_po_nebi_025.html",
+      "words": 3282,
+      "chars": 19526,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 21,
+      "prev": "jen_smouha_po_nebi_024.html",
+      "next": "jen_smouha_po_nebi_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ediční poznámka • Jen šmouha po nebi",
+      "file": "jen_smouha_po_nebi_026.html",
+      "words": 2,
+      "chars": 15,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 22,
+      "prev": "jen_smouha_po_nebi_025.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ediční poznámka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž • Jen šmouha po nebi",
+      "file": "colophon.html",
+      "words": 146,
+      "chars": 933,
+      "ideas": 21,
+      "role": "colophon",
+      "order": null,
+      "prev": "jen_smouha_po_nebi_026.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 60834,
+      "chars": 369000,
+      "ideas": 1314
+    },
+    "chapters": {
+      "words": 60682,
+      "chars": 368039,
+      "ideas": 1291
+    }
+  }
+}

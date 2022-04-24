@@ -1,8 +1,7 @@
 ---
+title: Ediční poznámka
 contentType: prose
 ---
-
-Ediční poznámka
 
   
 

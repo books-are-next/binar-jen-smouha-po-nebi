@@ -1,8 +1,7 @@
 ---
+title: IV
 contentType: prose
 ---
-
-IV
 
   
 
