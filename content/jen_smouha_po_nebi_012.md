@@ -1,8 +1,7 @@
 ---
+title: VI
 contentType: prose
 ---
-
-VI
 
   
 

@@ -1,8 +1,7 @@
 ---
+title: III
 contentType: prose
 ---
-
-III
 
   
 

@@ -1,8 +1,7 @@
 ---
+title: XVI
 contentType: prose
 ---
-
-XVI
 
   
 
@@ -114,7 +113,7 @@ Ještě jsme museli završit to, co jsme si předsevzali a nestačili dokonat. 
 
 „Ať se tam někdo chytne za nos. Budou muset úředně zdůvodnit, proč jim cestu za hranice nepovolí,“ řekl pan Büchler.
 
-Vaše návštěva Vaší dcery z důvodu její vlastní svatby se zamítá. Není v souladu se státními zájmy. S pozdravem Oldřich Bastl, vedoucí oddělení.
+_Vaše návštěva Vaší dcery z důvodu její vlastní svatby se zamítá. Není v souladu se státními zájmy. S pozdravem Oldřich Bastl, vedoucí oddělení._
 
 Tak to mému tchánovi Milanu Bandymu napsali z oddělení ministerstva vnitra, které mělo v referátu přidělování pasů a cestovních doložek a zamítání cest občanů do kapitalistické ciziny. Na úřední dotaz starosty městyse Neu Brennstadt Hermanna Büchlera, s jakými zájmy není cesta v souladu, odpověď nedošla.
 

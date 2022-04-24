@@ -1,8 +1,7 @@
 ---
+title: VII
 contentType: prose
 ---
-
-VII
 
   
 

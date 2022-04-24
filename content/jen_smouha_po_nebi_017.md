@@ -1,8 +1,7 @@
 ---
+title: XI
 contentType: prose
 ---
-
-XI
 
   
 
@@ -162,13 +161,13 @@ Jenže tentokrát šlo o pana Frosta, muzikanta v nesnázích. Přímá telefo
 
 „Jak myslíte…“ řekl Klápště a podstrčil panu starostovi lejstra k podpisu. Aspoň si ušetří cestu do vily. Jindy by to všechno profesor Zarašovský podepsal bez mrknutí, tentokrát si nasadil brýle.
 
-Občané a občanky Spáleného!
+_Občané a občanky Spáleného!_
 
-Jakožto starosta města obracím se na Vás s touto výzvou:
+_Jakožto starosta města obracím se na Vás s touto výzvou:_
 
-V době, kdy se my všichni, občané a občanky města Spáleného a veškerý pracující lid po celé naší krásné vlasti věnujeme obnově a budování naší krásné vlasti, národního hospodářství a našeho krásného města, v době, kdy ještě nejsou zcela zaceleny rány způsobené krvavou válkou, objevil se v našem středu nepřítel. Zvrhlý, nebezpečný, proradný a zrádný nepřítel, zrůda zakuklená do podoby nenápadného, zakřiknutého hudebníka, zakrývající svoji pravou tvář za maskou spořádaného občana. Vloudil se do našich řad, aby zákeřně škodil. Marně však usilují všichni ti Frostové – odhalení i dosud ještě zalezlí v temných dírách svých úkrytů – o to, aby se vrátily staré pořádky, aby znovu mohli panovat v továrnách, úřadech, divadlech a velkostatcích, v celé společnosti ti, které jsme porazili a vyhnali. Dnes, když si lid vládne sobě sám, nedopustíme, aby naší krásné vlasti, našemu rozkvetlému Spálenému vládli fabrikanti, velkostatkáři a církevní hodnostáři, všichni ti Vinz. Tlachové, nacisté a jejich přisluhovači Frostové a kdovíkdo ještě se přikrčený skrývá mezi námi. Ať se třesou! Nedovolíme, aby narušovali naše spojenectví s našimi osvoboditeli, hrdinným lidem SSSR a dalšími bratrskými zeměmi tábora míru a socialismu. My je mezi sebou vypátráme a řádně s nimi zatočíme.
+_V době, kdy se my všichni, občané a občanky města Spáleného a veškerý pracující lid po celé naší krásné vlasti věnujeme obnově a budování naší krásné vlasti, národního hospodářství a našeho krásného města, v době, kdy ještě nejsou zcela zaceleny rány způsobené krvavou válkou, objevil se v našem středu nepřítel. Zvrhlý, nebezpečný, proradný a zrádný nepřítel, zrůda zakuklená do podoby nenápadného, zakřiknutého hudebníka, zakrývající svoji pravou tvář za maskou spořádaného občana. Vloudil se do našich řad, aby zákeřně škodil. Marně však usilují všichni ti Frostové – odhalení i dosud ještě zalezlí v temných dírách svých úkrytů – o to, aby se vrátily staré pořádky, aby znovu mohli panovat v továrnách, úřadech, divadlech a velkostatcích, v celé společnosti ti, které jsme porazili a vyhnali. Dnes, když si lid vládne sobě sám, nedopustíme, aby naší krásné vlasti, našemu rozkvetlému Spálenému vládli fabrikanti, velkostatkáři a církevní hodnostáři, všichni ti Vinz. Tlachové, nacisté a jejich přisluhovači Frostové a kdovíkdo ještě se přikrčený skrývá mezi námi. Ať se třesou! Nedovolíme, aby narušovali naše spojenectví s našimi osvoboditeli, hrdinným lidem SSSR a dalšími bratrskými zeměmi tábora míru a socialismu. My je mezi sebou vypátráme a řádně s nimi zatočíme._
 
-Jako starosta města Spáleného vyzývám Vás, občané a občanky města Spáleného, k bdělosti a ostražitosti, abyste každého škůdce odhalili a předali jeho jméno příslušným orgánům Sboru národní bezpečnosti, tvrdé pěsti dělnické třídy, které už vědí, jak se s nimi vypořádat. Naše město musí být čisté!
+_Jako starosta města Spáleného vyzývám Vás, občané a občanky města Spáleného, k bdělosti a ostražitosti, abyste každého škůdce odhalili a předali jeho jméno příslušným orgánům Sboru národní bezpečnosti, tvrdé pěsti dělnické třídy, které už vědí, jak se s nimi vypořádat. Naše město musí být čisté!_
 
 _Prof. RNDr. Zarašovský, DrSc., starosta_
 

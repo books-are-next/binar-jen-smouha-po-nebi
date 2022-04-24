@@ -1,8 +1,7 @@
 ---
+title: XIII
 contentType: prose
 ---
-
-XIII
 
   
 

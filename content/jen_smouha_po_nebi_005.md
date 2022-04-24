@@ -1,12 +1,13 @@
 ---
+title: ''
 contentType: prose
 ---
 
-Monsieur de la Palisse, poškleboval se Štěpán,  
-byl ještě patnáct minut před smrtí živ.
+_Monsieur de la Palisse, poškleboval se Štěpán,  
+byl ještě patnáct minut před smrtí živ._
 
 JAMES JOYCE, Odysseus
 
-Létající ptáci mají na pařátku vlákno nekonečna.
+_Létající ptáci mají na pařátku vlákno nekonečna._
 
 VICTOR HUGO, Bídníci
