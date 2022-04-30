@@ -87,25 +87,27 @@
             "filename": "jen_smouha_po_nebi_005.md",
             "xhtml": "jen_smouha_po_nebi_005.xhtml",
             "id": 4,
-            "role": "break",
+            "role": "chapter",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Citáty"
           },
           {
             "filename": "jen_smouha_po_nebi_006.md",
             "xhtml": "jen_smouha_po_nebi_006.xhtml",
             "id": 5,
-            "role": "break",
+            "role": "chapter",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Říkám jí Mňau"
           },
           {
             "filename": "jen_smouha_po_nebi_007.md",
@@ -117,8 +119,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "I"
+            "title": "I",
+            "children": []
           },
           {
             "filename": "jen_smouha_po_nebi_008.md",
@@ -130,8 +132,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "II"
+            "title": "II",
+            "children": []
           },
           {
             "filename": "jen_smouha_po_nebi_009.md",
@@ -143,8 +145,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "III"
+            "title": "III",
+            "children": []
           },
           {
             "filename": "jen_smouha_po_nebi_010.md",
@@ -156,8 +158,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "IV"
+            "title": "IV",
+            "children": []
           },
           {
             "filename": "jen_smouha_po_nebi_011.md",
@@ -169,8 +171,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "V"
+            "title": "V",
+            "children": []
           },
           {
             "filename": "jen_smouha_po_nebi_012.md",
@@ -182,8 +184,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "VI"
+            "title": "VI",
+            "children": []
           },
           {
             "filename": "jen_smouha_po_nebi_013.md",
@@ -195,8 +197,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "VII"
+            "title": "VII",
+            "children": []
           },
           {
             "filename": "jen_smouha_po_nebi_014.md",
@@ -208,8 +210,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "VIII"
+            "title": "VIII",
+            "children": []
           },
           {
             "filename": "jen_smouha_po_nebi_015.md",
@@ -221,8 +223,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "IX"
+            "title": "IX",
+            "children": []
           },
           {
             "filename": "jen_smouha_po_nebi_016.md",
@@ -234,8 +236,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "X"
+            "title": "X",
+            "children": []
           },
           {
             "filename": "jen_smouha_po_nebi_017.md",
@@ -247,8 +249,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XI"
+            "title": "XI",
+            "children": []
           },
           {
             "filename": "jen_smouha_po_nebi_018.md",
@@ -260,8 +262,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XII"
+            "title": "XII",
+            "children": []
           },
           {
             "filename": "jen_smouha_po_nebi_019.md",
@@ -273,8 +275,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XIII"
+            "title": "XIII",
+            "children": []
           },
           {
             "filename": "jen_smouha_po_nebi_020.md",
@@ -286,8 +288,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XIV"
+            "title": "XIV",
+            "children": []
           },
           {
             "filename": "jen_smouha_po_nebi_021.md",
@@ -299,8 +301,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XV"
+            "title": "XV",
+            "children": []
           },
           {
             "filename": "jen_smouha_po_nebi_022.md",
@@ -312,8 +314,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XVI"
+            "title": "XVI",
+            "children": []
           },
           {
             "filename": "jen_smouha_po_nebi_023.md",
@@ -325,8 +327,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XVII"
+            "title": "XVII",
+            "children": []
           },
           {
             "filename": "jen_smouha_po_nebi_024.md",
@@ -338,8 +340,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XVIII"
+            "title": "XVIII",
+            "children": []
           },
           {
             "filename": "jen_smouha_po_nebi_025.md",
@@ -351,8 +353,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XIX"
+            "title": "XIX",
+            "children": []
           },
           {
             "filename": "jen_smouha_po_nebi_026.md",
@@ -364,8 +366,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Ediční poznámka"
+            "title": "Ediční poznámka",
+            "children": []
           },
           {
             "filename": "jen_smouha_po_nebi_027.md",
@@ -630,6 +632,6 @@
       "user": "books-are-next",
       "repo": "binar-jen-smouha-po-nebi"
     },
-    "generatedAt": 1650800339356
+    "generatedAt": 1651316677406
   }
 }

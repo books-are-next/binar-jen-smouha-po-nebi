@@ -2,7 +2,7 @@
 
 /* global self, caches, fetch */
 
-const CACHE = 'cache-9bad31f';
+const CACHE = 'cache-5ca1830';
 
 self.addEventListener('install', e => {
   e.waitUntil(precache()).then(() => self.skipWaiting());
@@ -40,7 +40,7 @@ self.addEventListener('activate', event => {
 });
 
 function precache() {
-  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./jen_smouha_po_nebi_002.html","./index.html","./jen_smouha_po_nebi_005.html","./jen_smouha_po_nebi_006.html","./jen_smouha_po_nebi_007.html","./jen_smouha_po_nebi_008.html","./jen_smouha_po_nebi_009.html","./jen_smouha_po_nebi_010.html","./jen_smouha_po_nebi_011.html","./jen_smouha_po_nebi_012.html","./jen_smouha_po_nebi_013.html","./jen_smouha_po_nebi_014.html","./jen_smouha_po_nebi_015.html","./jen_smouha_po_nebi_016.html","./jen_smouha_po_nebi_017.html","./jen_smouha_po_nebi_018.html","./jen_smouha_po_nebi_019.html","./jen_smouha_po_nebi_020.html","./jen_smouha_po_nebi_021.html","./jen_smouha_po_nebi_022.html","./jen_smouha_po_nebi_023.html","./jen_smouha_po_nebi_024.html","./jen_smouha_po_nebi_025.html","./jen_smouha_po_nebi_026.html","./manifest.json","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/image002.jpg","./resources/obalka_jen_smouha_po_nebi.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]));
+  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./jen_smouha_po_nebi_002.html","./jen_smouha_po_nebi_005.html","./jen_smouha_po_nebi_006.html","./jen_smouha_po_nebi_007.html","./jen_smouha_po_nebi_008.html","./jen_smouha_po_nebi_009.html","./jen_smouha_po_nebi_010.html","./jen_smouha_po_nebi_011.html","./jen_smouha_po_nebi_012.html","./jen_smouha_po_nebi_013.html","./jen_smouha_po_nebi_014.html","./jen_smouha_po_nebi_015.html","./jen_smouha_po_nebi_016.html","./jen_smouha_po_nebi_017.html","./jen_smouha_po_nebi_018.html","./jen_smouha_po_nebi_019.html","./jen_smouha_po_nebi_020.html","./jen_smouha_po_nebi_021.html","./jen_smouha_po_nebi_022.html","./jen_smouha_po_nebi_023.html","./jen_smouha_po_nebi_024.html","./jen_smouha_po_nebi_025.html","./jen_smouha_po_nebi_026.html","./manifest.json","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/image002.jpg","./resources/obalka_jen_smouha_po_nebi.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]));
 }
 
 self.addEventListener('fetch', e => {
