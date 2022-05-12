@@ -1,21 +1,48 @@
 {
-  "author": "Ivan Binar",
-  "contenttype": "prose",
-  "identifier": "binar-jen-smouha-po-nebi-5ca1830",
-  "isbn": "978-80-274-2190-9",
-  "languagecode": "cs",
-  "modified": "2022-03-08T00:00:00.000Z",
-  "publisher": "Městská knihovna v Praze",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Jen šmouha po nebi",
-  "revision": "5ca1830",
+  "author": "Ivan Binar",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "binar-jen-smouha-po-nebi-c52f54e",
+  "revision": "c52f54e",
+  "readingOrder": [
+    "promo.html",
+    "jen_smouha_po_nebi_005.html",
+    "jen_smouha_po_nebi_006.html",
+    "jen_smouha_po_nebi_007.html",
+    "jen_smouha_po_nebi_008.html",
+    "jen_smouha_po_nebi_009.html",
+    "jen_smouha_po_nebi_010.html",
+    "jen_smouha_po_nebi_011.html",
+    "jen_smouha_po_nebi_012.html",
+    "jen_smouha_po_nebi_013.html",
+    "jen_smouha_po_nebi_014.html",
+    "jen_smouha_po_nebi_015.html",
+    "jen_smouha_po_nebi_016.html",
+    "jen_smouha_po_nebi_017.html",
+    "jen_smouha_po_nebi_018.html",
+    "jen_smouha_po_nebi_019.html",
+    "jen_smouha_po_nebi_020.html",
+    "jen_smouha_po_nebi_021.html",
+    "jen_smouha_po_nebi_022.html",
+    "jen_smouha_po_nebi_023.html",
+    "jen_smouha_po_nebi_024.html",
+    "jen_smouha_po_nebi_025.html",
+    "jen_smouha_po_nebi_026.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Sat Apr 30 2022 11:05:28 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1651316728222
+    "date": "Thu May 12 2022 10:43:47 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352227781
   },
   "documents": [
     {
-      "title": "Jen šmouha po nebi",
-      "file": "jen_smouha_po_nebi_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -23,15 +50,7 @@
       "order": 0,
       "prev": null,
       "next": "jen_smouha_po_nebi_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Jen šmouha po nebi",
@@ -41,7 +60,7 @@
       "ideas": 5,
       "role": "chapter",
       "order": 1,
-      "prev": "jen_smouha_po_nebi_002.html",
+      "prev": "promo.html",
       "next": "jen_smouha_po_nebi_006.html",
       "toc": [
         {
@@ -74,7 +93,7 @@
       ]
     },
     {
-      "title": "I • Jen šmouha po nebi",
+      "title": "I",
       "file": "jen_smouha_po_nebi_007.html",
       "words": 2353,
       "chars": 14156,
@@ -94,7 +113,7 @@
       ]
     },
     {
-      "title": "II • Jen šmouha po nebi",
+      "title": "II",
       "file": "jen_smouha_po_nebi_008.html",
       "words": 2502,
       "chars": 15179,
@@ -114,7 +133,7 @@
       ]
     },
     {
-      "title": "III • Jen šmouha po nebi",
+      "title": "III",
       "file": "jen_smouha_po_nebi_009.html",
       "words": 3966,
       "chars": 23888,
@@ -134,7 +153,7 @@
       ]
     },
     {
-      "title": "IV • Jen šmouha po nebi",
+      "title": "IV",
       "file": "jen_smouha_po_nebi_010.html",
       "words": 3051,
       "chars": 19031,
@@ -154,7 +173,7 @@
       ]
     },
     {
-      "title": "V • Jen šmouha po nebi",
+      "title": "V",
       "file": "jen_smouha_po_nebi_011.html",
       "words": 3043,
       "chars": 19010,
@@ -174,7 +193,7 @@
       ]
     },
     {
-      "title": "VI • Jen šmouha po nebi",
+      "title": "VI",
       "file": "jen_smouha_po_nebi_012.html",
       "words": 3683,
       "chars": 22161,
@@ -194,7 +213,7 @@
       ]
     },
     {
-      "title": "VII • Jen šmouha po nebi",
+      "title": "VII",
       "file": "jen_smouha_po_nebi_013.html",
       "words": 2473,
       "chars": 14936,
@@ -214,7 +233,7 @@
       ]
     },
     {
-      "title": "VIII • Jen šmouha po nebi",
+      "title": "VIII",
       "file": "jen_smouha_po_nebi_014.html",
       "words": 2404,
       "chars": 14696,
@@ -234,7 +253,7 @@
       ]
     },
     {
-      "title": "IX • Jen šmouha po nebi",
+      "title": "IX",
       "file": "jen_smouha_po_nebi_015.html",
       "words": 2099,
       "chars": 12909,
@@ -254,7 +273,7 @@
       ]
     },
     {
-      "title": "X • Jen šmouha po nebi",
+      "title": "X",
       "file": "jen_smouha_po_nebi_016.html",
       "words": 1687,
       "chars": 10352,
@@ -274,7 +293,7 @@
       ]
     },
     {
-      "title": "XI • Jen šmouha po nebi",
+      "title": "XI",
       "file": "jen_smouha_po_nebi_017.html",
       "words": 3888,
       "chars": 23618,
@@ -294,7 +313,7 @@
       ]
     },
     {
-      "title": "XII • Jen šmouha po nebi",
+      "title": "XII",
       "file": "jen_smouha_po_nebi_018.html",
       "words": 3164,
       "chars": 19269,
@@ -314,7 +333,7 @@
       ]
     },
     {
-      "title": "XIII • Jen šmouha po nebi",
+      "title": "XIII",
       "file": "jen_smouha_po_nebi_019.html",
       "words": 3366,
       "chars": 20746,
@@ -334,7 +353,7 @@
       ]
     },
     {
-      "title": "XIV • Jen šmouha po nebi",
+      "title": "XIV",
       "file": "jen_smouha_po_nebi_020.html",
       "words": 3940,
       "chars": 24006,
@@ -354,7 +373,7 @@
       ]
     },
     {
-      "title": "XV • Jen šmouha po nebi",
+      "title": "XV",
       "file": "jen_smouha_po_nebi_021.html",
       "words": 3449,
       "chars": 20607,
@@ -374,7 +393,7 @@
       ]
     },
     {
-      "title": "XVI • Jen šmouha po nebi",
+      "title": "XVI",
       "file": "jen_smouha_po_nebi_022.html",
       "words": 3972,
       "chars": 23939,
@@ -394,7 +413,7 @@
       ]
     },
     {
-      "title": "XVII • Jen šmouha po nebi",
+      "title": "XVII",
       "file": "jen_smouha_po_nebi_023.html",
       "words": 3708,
       "chars": 22024,
@@ -414,7 +433,7 @@
       ]
     },
     {
-      "title": "XVIII • Jen šmouha po nebi",
+      "title": "XVIII",
       "file": "jen_smouha_po_nebi_024.html",
       "words": 4441,
       "chars": 26666,
@@ -434,7 +453,7 @@
       ]
     },
     {
-      "title": "XIX • Jen šmouha po nebi",
+      "title": "XIX",
       "file": "jen_smouha_po_nebi_025.html",
       "words": 3282,
       "chars": 19526,
@@ -454,7 +473,7 @@
       ]
     },
     {
-      "title": "Ediční poznámka • Jen šmouha po nebi",
+      "title": "Ediční poznámka",
       "file": "jen_smouha_po_nebi_026.html",
       "words": 2,
       "chars": 15,
@@ -474,11 +493,11 @@
       ]
     },
     {
-      "title": "Tiráž • Jen šmouha po nebi",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 146,
-      "chars": 933,
-      "ideas": 21,
+      "words": 126,
+      "chars": 795,
+      "ideas": 16,
       "role": "colophon",
       "order": null,
       "prev": "jen_smouha_po_nebi_026.html",
@@ -496,9 +515,9 @@
   ],
   "totals": {
     "all": {
-      "words": 60834,
-      "chars": 369000,
-      "ideas": 1314
+      "words": 60814,
+      "chars": 368862,
+      "ideas": 1309
     },
     "chapters": {
       "words": 60682,

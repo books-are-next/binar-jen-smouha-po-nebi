@@ -51,7 +51,7 @@
             "filename": "jen_smouha_po_nebi_002.md",
             "xhtml": "jen_smouha_po_nebi_002.xhtml",
             "id": 1,
-            "role": "break",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -632,6 +632,6 @@
       "user": "books-are-next",
       "repo": "binar-jen-smouha-po-nebi"
     },
-    "generatedAt": 1651316677406
+    "generatedAt": 1652351646936
   }
 }
