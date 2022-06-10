@@ -3,6 +3,8 @@ title: I
 contentType: prose
 ---
 
+<section>
+
 Do Spáleného jsem se vrátil, jako by mi nic jiného nezbývalo. Bylo to jako nutkání loupat si strup na téměř vyhojené ráně. Vracet jsem se nemusel, mohl jsem zůstat tam, kde jsem byl. Dařilo se mi dobře, nikdo mě odtamtud nevyháněl. Ale já jsem se chtěl vrátit zrovna do Spáleného. Teď sem vstupuji důstojně; dobrovolně, na základě vlastního rozhodnutí. Třeba zrovna tady je můj domov?
 
 Počkal jsem si, až bylo po všem: girlandy strhány, konfety smeteny, hilzny z rachejtlí spolu se střepy lahví v popelnicích, zvratky vytřeny a vylity se špinavou vodou do výlevky. Hudební nástroje ve futrálech, třeštící hlavy zchlazeny, psi v boudách zalezlí, kočky na lovu. Za Němců se to jmenovalo Brennstadt. A tak jsme tomu začali říkat Spálené.
@@ -15,15 +17,21 @@ Město bylo plné lidí, všichni někam spěchali. Ale nespěchali tam spolu, n
 
 Můj dům vězí ve volné krajině. V krajině zvlněné jako moře: mírné kopečky a mělké dolíky, smíšené lesy a pole plná kamení, lidí málo. Snad kvůli té krajině jsem se vrátil. Kvůli čemu se vracejí vlaštovky?
 
-  
+</section>
+
+<section>
 
 Povím ti, kočko, co se mi zdálo v noci na dnešek, abych nezapomněl. Měl jsem si to zapsat hned ráno, ale nenašel jsem tužku. Snové události se liší od skutečných, nestrpí odkladu. Mizí postupně jako Čínská Kočka Šklíba, couvají do nevědomí, zbude z nich jenom škleb, ale i ten se vytratí. Zdál se mi dům podobný kasárnům v Hranicích na Moravě, z ptačí perspektivy. Sídlí tam mladý muž, s nímž se musím neodkladně sejít. Co mi chce? – Ocitám se uvnitř. Chodby jsou přímé, od úběžníku k úběžníku, po stranách zotvírané dveře, prázdné místnosti s otřískanou omítkou bez oken, cihly vyhřezlé, ve vzduchu vápenný prach… Vím, že ho musím najít, je to otázka života a smrti. Čas plyne a já se zvolna sunu chodbou, nahlížím do pustých místností, na podrážkách mi ulpívá dehet, táhnu za sebou černá vlákna, nemohu je přervat, stahují mě zpátky do šlépějí. Jsem uvězněn ve vlastních stopách. Mám dobrou vůli dostavit se včas, ale nemohu se odtrhnout. Teprve po hodné chvíli beznaděje si uvědomuji, že nikam nemusím, že se mi to jenom zdá.
 
-  
+</section>
+
+<section>
 
 Nic už nemusím. A přesto jsem se vrátil. Dřepím v křesle a vyhlížím Modrého smíška. Bál jsem se vrátit, a vida, žádná hrůza: stráně plné krav, na obloze párek zamilovaných krkavců, staří známí. Zbrusu nová kočka si mě sama našla a teď mi trpělivě naslouchá. – Ale čurat na koberec, tos nemusela, Mňau!
 
-  
+</section>
+
+<section>
 
 Vadí mi zima, pocit chladu; zima po těle, zima v duši. Studená chodidla, studené pohledy, husí kůže. Mráz nevadí, i když je nebezpečný a dokáže zabíjet; je nemilosrdný, zničující, ale nepředstírá. Mráz je jasný. Vadí mi zima vlezlá, mokvavá, ulpívající; nedostatečné oblečení, zkřehlé ruce, promáčené boty, vlhká pokrývka, vyškrtané zápalky, orosené zdi, zima pod kůží, v morku kostí. Taková zima sálá z Bydžovského a z jeho nohsleda Kvitka. Mají na mne spadeno.
 
@@ -47,11 +55,15 @@ Po prázdninách mi Bydžovský sešel z očí; propadl v počtech a naše ce
 
 „Kdo je u tebe cyp, cype!“ řekl Bydžovský a piznul mě do pysku, až jsem hlavou křísl o výkladní skříň. A nohsled Kvitko mi plivl do pysku žlutý chrchel, aby nepřišel zkrátka. Pak vyrazili Pivovarskou ulicí dolů na Nákladní a po Švermově k řece, přes most do Katerajnu, až za Katerajn a kolem bunkru do polí rozkopávat syslům díry a krást jim nakřečkované obilí.
 
-  
+</section>
+
+<section>
 
 Hladím spící kočku – co když spánek jenom předstírá? – rukou vnímám pevnou, a přitom hebkou srst, bříšky prstů nabírám ukrývanou energii šelmího těla. Svádí mě to k nevázanému nezávaznému žvanění; kočka nic nevyslepičí, kočce nevadí banalita, vybočení z vazby, nešikovná formulace, nakousnutý a nedořečený příběh. Když toho má dost, byť by to bylo uprostřed slova, odebere se na skříň, pod skříň nebo do koupelny… Kampak, kampak, milostivá?
 
-  
+</section>
+
+<section>
 
 Soudím, že je mi souzena. Není to přelud, ačkoli ji nikdo neviděl, jenom já. Všech jsem se vyptával, i naší Anky, když se vzdutými plachtami, celá modrá, vznešeně proplula modrou oblohou nízko nad zemí, od východu k západu – zprvu jenom nepatrná bezbarvá skvrna, nepatřičné cosi, zraková vada, ďučka na sítnici. Nikdo ji ani nezahlédl, ačkoli nám plula kousek nad hlavami. Jenom já jsem viděl na nebi modrou plachetnici.
 
@@ -106,3 +118,5 @@ Ale copak naše Anka neměla dobré oči? Brýle nenosila, jak je možné, že n
 Jak loď připlula, tak i odplula směrem západním, vzdalovala se zvolna, až se proměnila v modrou šmouhu, v nepatrnou bezbarvou skvrnu, nepatřičné cosi na obloze, přelud, zrakovou vadu, ďučku na sítnici, nic… A mně došlo, že za nimi na palubu nemůžu, protože mám tady na bunkru naši Anku a na mých sáňkách se neoprávněně vozí Bydžovský s Kvitkem. Takové krásné sáňky přece nemůžu nechat v jejich spárech a naši Anku opustit, zanechat ji i se sáňkami napospas živlům! – Když se nabažili, sáňky pohodili do zavátého příkopu a odešli páchat další dobré skutky do temných uliček v Katerajnu.
 
 Jenom nechápu, Mňau, jak je možné, že Modrého smíška neviděla ani naše Anka, ani ostatní děcka. Jako by to byl přelud, jako by Modrý smíšek nebyl ze dřeva, kovu a plátna, živá loď z masa a kostí, jako by to byla jen moje představa.
+
+</section>

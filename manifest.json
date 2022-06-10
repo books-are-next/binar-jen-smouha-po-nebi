@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "binar-jen-smouha-po-nebi-43ee58e",
-  "revision": "43ee58e",
+  "identifier": "binar-jen-smouha-po-nebi-ab852d9",
+  "revision": "ab852d9",
   "readingOrder": [
     "promo.html",
     "jen_smouha_po_nebi_005.html",
@@ -36,8 +36,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 14:15:57 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654870557104
+    "date": "Fri Jun 10 2022 17:46:57 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883217756
   },
   "documents": [
     {
@@ -475,9 +475,9 @@
     {
       "title": "Ediční poznámka",
       "file": "jen_smouha_po_nebi_026.html",
-      "words": 2,
-      "chars": 15,
-      "ideas": 1,
+      "words": 21,
+      "chars": 123,
+      "ideas": 2,
       "role": "chapter",
       "order": 22,
       "prev": "jen_smouha_po_nebi_025.html",
@@ -495,9 +495,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 122,
-      "chars": 746,
-      "ideas": 15,
+      "words": 89,
+      "chars": 578,
+      "ideas": 7,
       "role": "colophon",
       "order": null,
       "prev": "jen_smouha_po_nebi_026.html",
@@ -515,14 +515,14 @@
   ],
   "totals": {
     "all": {
-      "words": 60810,
-      "chars": 368813,
-      "ideas": 1308
+      "words": 60796,
+      "chars": 368753,
+      "ideas": 1301
     },
     "chapters": {
-      "words": 60682,
-      "chars": 368039,
-      "ideas": 1291
+      "words": 60701,
+      "chars": 368147,
+      "ideas": 1292
     }
   }
 }

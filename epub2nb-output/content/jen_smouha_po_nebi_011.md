@@ -3,9 +3,13 @@ title: V
 contentType: prose
 ---
 
+<section>
+
 Taky ti, Mňau, vadí to střílení? Každou sobotu odpoledne spustí kanonádu a nepřestanou, dokud se nesetmí, dokud dohledí hledím na mušku. Nechci se ztrapňovat zbytečnými protesty, na myslivce je každý krátký, myslivci jsou elita. Na protější straně si pod opravenou kapličkou zřídili střelnici: zpod břehu porostlého trávou vymršťují asfaltové létací talíře a připravení střelci, nevědouce kdy a odkud talíř vylítne, číhají na ně s brokovnicemi odhodláni trefit. – Kromě toho nastavěli myslivci po celém kraji posedy, krytá stanoviště střelců na kůlech, aby měl každý svůj, aby se nemuseli handrkovat, který z nich se posadí, kdyby jich několik projevilo zájem posedět v tutéž chvíli v tomtéž posedu. Po krkolomném žebříku vylezou do budky, zachumlají se v dece a přihnou si z placaté láhve, aby se jim zbystřil zrak a zpevnila ruka. Zvířata střílejí z lásky ke zvířatům, aby jich nebylo příliš, aby ta, která zbudou, měla dostatek potravy a životního prostoru. Před několika dny přivezli fůru cukrovky a mláta a vysypali to pod posedem. Aby přilákali zvířata a poskytli jim poslední večeři. Pozor na ně, Mňau, mají spadeno i na kočky!
 
-  
+</section>
+
+<section>
 
 Zdenko Klápště se ubytoval na radnici – do bytu po domovníkovi – a vbrzku vyvěsil na stožár v průčelí státní vlajku. Sám ji ušil na šicím stroji Singer po domovnici. Z prostěradla ji ukutil, z červené nacistické vlajky zbavené haknkrajce a ze svých modrých trenýrek, dvoje byly zapotřebí, sešitých a přistřižených do klínu. Nic ukázkového, ale státní symbol by v tom poznal i poválečný prvňáček. Pachtil se s tím tři dny, aby bylo jasno, že nejsme žádní nacisti. Ačkoli jsme vylosovaní nepřátelé lidu a vyvržení přihnanci, neznamená to ještě, že nejsme vlastenci. Honosný nadpis RATHAUS nešlo jen tak odstranit, byl vrytý do omítky technikou sgrafita.
 
@@ -17,13 +21,17 @@ Zdenko Klápště, Mňau, byl vrtichvost. Jako vrtichvost se projevil už na sez
 
 Klápště našel na radnici šedivý pracovní plášť s velkými knof­líky, z nichž druhý shora visel na niti a hrozil utržením. Velmi se podobal plášti, který už měl na sobě, také s natrženou kapsou, byl však zachovalejší. Plný radosti se ho Klápště zmocnil, roztočil šicí stroj a opravil kapsu, pevně přišil knoflík, vypral plášť v mydlinkové vodě, vymáchal a netrpělivě čekal, až uschne. Do kapsičky na hruď zasunul viditelně plnicí pero a všechny patentní tužky nalezené v kanceláři přednosty úřadu. Nebylo to Klápště původně školníkem? Umím si ho představit, Mňau, jak ve tři čtvrtě na osm odemyká hlavní dveře, tyčí se nad schody a péruje žáčky, aby si řádně čistili podešve. Vrtichvost s duší domovníka a s utajovanými ambicemi.
 
-  
+</section>
+
+<section>
 
 Po obědě jsem si vlezl do indiánské hamaky v domnění, že budu pracovat vleže a moje myšlenky budou pestré. Po chvíli jsem usnul, zdálo se mi o létání:
 
 Šlo to jak po másle. Najednou jsem byl ve vzduchu, nic pod nohama. Mávl jsem rukama, šlo to samo od sebe. Že jsem to neobjevil už dávno? Doletěl jsem nad Slavkov, nad zámek a řepková pole, nad bojiště. Proti mně vyrazil mrtvý kůň, třmeny mu povlávaly podél boků, nozdry se dmuly, podkovy blýskaly. Když mě dostihl, vypoulil oční důlky a chtěl mrkvičku. Kde bych vzal ve snu mrkvičku? Cpal mi pysky do kapsy, a když nic nenašel, kopl mě do hlavy a odcválal do maštale. – Jako by se ve vzduchu roztrhl pytel s rozmanitými předměty: moje daňové přiznání, kredenc s rodinným stříbrem, taky tu poletovalo několik výkřiků: Chyťte ho! Nechte ho! Pusťte ho! Do toho! – Svištěla si tu čepice Karla Moudrého, červená s kšiltem, za ní šest husitů s cepy a jeden se sudlicí, sotva jsem stačil ucuknout. Za nimi králíkárna s dvanácti angoráky, kotva lodi Píďalka, dudák v sukénce… Chroupal jsem třešně srdcovky, ale neměly žádnou chuť, cvrnkal peckami do předmětů kolem: do čepice, kredence, dudáka, daňového přiznání, do husitů atd. Předměty vybuchovaly BUM! BUMBUM! BUMBUMBUM! a trosky z nich padaly na bojiště. Také já jsem vybuchl BUM! a rozsypal se do hamaky. – Odpolední spánek, Mňau, nestojí za nic.
 
-  
+</section>
+
+<section>
 
 Nastaly mrazy holomrazy, žádný sníh, nízko nad obzorem se ploužilo unavené slunce a dělalo z lidí natáhlé stíny. Ptáci umrzali v letu: nejdřív jim zamrzl hlásek, pak zmrzl naráz celý pták. Ti, kteří zmrzli s roztaženými křídly, přistávali nehlučně klouzavým letem. Ti, kteří měli v okamžiku zmrznutí připaženo, padali jako důkaz přitažlivosti. Zlatí kapři plavali v kašně naplacato, s boky vodorovně se zamrzlou hladinou, protože vrstva ledu nad nimi spotřebovala většinu vody a bránila jim v přirozeném pohybu. Museli si připadat jako havíři v nízké sloji.
 
@@ -37,12 +45,16 @@ Prohledali jsme truhly, skříně a šatníky, oblékli se do zimního šatstva
 
 „Pojďme raději bruslit,“ navrhla Soňa Mucišková, naváděná k tomu dcerkou Věrkou. „Takový krásný led se vytvořil a vy tu o starostovi nanic…“ – Nebyl to špatný nápad, led není vždycky a bruslit se dá jenom, je-li led.
 
-  
+</section>
+
+<section>
 
 > „Je-li led,  
 > jde se bruslit hned!“
 
-  
+</section>
+
+<section>
 
 zarýmoval Miloš Muciška. Nemohl jinak. Je-li někdo básník, musí rýmovat.
 
@@ -94,7 +106,9 @@ Zuzička se choulila v křesle zabalená do houně a mezi řasami měla zase j
 
 Už si ani nepamatuju, Mňau, jak ten večer skončil. Myslel jsem si tenkrát, že čím víc toho vypiju, tím to bude lepší. Nemohl jsem totiž unést Zuziččiny proměny. Bylo mi zle, protože jsem záviděl šťastně ženatému básníku Muciškovi propadání se Zuzičkou v náručí. Protože se mi Zuzička líbila čím dál víc. Ve chvíli, kdy se objevila zářící jak slunko v bleděmodrém kostýmku se sobolem, zasáhl mne blesk. Zaplavila mě úžasná vlna nadšení, naplnila mi srdce, útroby a zatemnila mozek. A protože jsem nemohl Miloši Muciškovi beztrestně uříznout hlavu, lil jsem do sebe nebezpečný nápoj Kláry Clarissimy jako o závod. Ještě si pamatuju, jak namyšlený knihkupec zabalený v houni povstal a z papírku přečetl povzneseným hlasem s ochotnickým patosem čerstvě uklohňanou nemravnou rýmovačku, které říkal báseň:
 
-  
+</section>
+
+<section>
 
 > „Ze srdce soukám básničku  
 > pro Zarašovských Zuzičku.  
@@ -103,7 +117,9 @@ Už si ani nepamatuju, Mňau, jak ten večer skončil. Myslel jsem si tenkrát, 
 > Abyste to věděli,  
 > šlo by to i v posteli…“
 
-  
+</section>
+
+<section>
 
 Pokaždé, když se v něm cosi zrodilo, ať to bylo, co to bylo, muselo to ven. Okamžitě. Tvářil se přitom jako páv na zábradlí a tuze se divil, že mu nikdo nezatleskal. Ani jeho žena mu nezatleskala!
 
@@ -116,3 +132,5 @@ Pokaždé, když se v něm cosi zrodilo, ať to bylo, co to bylo, muselo to ven
 „Co by… Nic se mi, kurva, nestalo. Vůbec nic!“
 
 Pan Frost u krbu hrál docela potichoučku prostinkou písničku: Winter ade, Scheiden tut weh…
+
+</section>

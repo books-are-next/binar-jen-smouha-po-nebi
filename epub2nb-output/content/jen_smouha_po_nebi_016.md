@@ -3,19 +3,25 @@ title: X
 contentType: prose
 ---
 
+<section>
+
 Místní rozhlas ve Spáleném přečkal čas nesvobody a jako potřebná instituce se dočkal dnešních dnů. A s ním také oblíbená píseň čiperného Klápštěte Co to tam šupoce za tú stodolú. Frantík obcházející zahrádku upadl v zapomnění. Místní rozhlas doznal technických změn, ampliony jsou menší, už tolik nechraptí, jsou výkonnější. Nejraději bych popadl flintu a tlampač sestřelil. Nemám flintu a bidlem tak vysoko nedosáhnu.
 
 V době siesty zašupocú koně a vrzavý hlas pověřené úřednice odrecituje významné zpravodajství. Ohlašuje příjezd celostátního tajtrlíka, který se uchází o přízeň voličů. Všichni jsme mu, i Pepek Vyskoč s volebním hlasem, dobří dost. Tajtrlík si vzal do hlavy, že volby vyhraje, aby se mohl i v dalším volebním období naparovat v audině, řítit se po dálnici D1 a blikat majáčkem, aby mu Pepci Vyskočové uskočili z cesty a hleděli na něj ze škarpy. Zkoušel jsem to šutrem, ale netrefil. Budu si muset opatřit flintu a nejbližší tlampač ustřelit.
 
 Konečně jsem našel tesaře ochotného podle návrhu architekta Poštovny stlouct moji věž. Jmenuje se Helebrant a pije víc, než jsem pil já, když jsem pil. Ale jaképak moralizování! Pij si, tesaři, pij, když ti to jde k duhu. Jen se neupij.
 
-  
+</section>
+
+<section>
 
 Některé sny se vracejí v obměnách. Opět jsem si vykračoval po pláži a táhl za sebou bambusový stvol, vlekl za sebou čáru rytou do písku. – Kde se tu vzaly kachny březňačky? Přežrané a chamtivé přešlapovaly placatýma nohama po mé čáře, ťápaly v písku s tupou ignorancí tvora posedlého chlípností. Sedm kačerů s vyblýskanými hlavami se naparovalo před jedinou šedivou, ucachtanou samicí. Blaženě si pokvakovala polichocena takovým zájmem, všech sedm ji chtělo pojmout! Ťapala oranžovými vesly po mé čáře a nápadníci s ní. Už už by na ni vhupli, jenže se nedokázali domluvit na pořadí, a tak rozpačitě přešlapovali po mojí snové čáře. Kvákali vzrušeně, překřikovali se, jako by ten nejhlasitější byl také nejlepší. Mne vůbec nebrali na vědomí. Rozzuřilo mě to, začal jsem je mlátit bambusem. Nechápali, co se děje. Ani je nenapadlo, že by mohli utéct. Jenom se tupě usmívali těmi placatými zobáky. Bil jsem je, zběsile mlátil, až jsem ubil všechny i s tou dychtivou kačenou.
 
 Probudil jsem se, Mňau, zpocený a rozladěný. Jako vrah.
 
-  
+</section>
+
+<section>
 
 Jak já jsem se těšíval do práce! Tenkrát, před léty, za Růženkou do řetězárny. Cosi mi kvasilo v hrudním koši, lechtalo pod žebry, ťukalo na prsní kost, dralo se ven. Bál jsem se, že by mě to mohlo přesáhnout. Bál jsem se, a nevěděl pořádně čeho: Růženky, anebo sebe? Čert mi ji byl dlužen, Růženku.
 
@@ -23,7 +29,9 @@ Zuzička Zarašovská už přebolela. Vždyť to ani žádná bolest nebyla, co 
 
 Pobývali jsme ve výzdobně s Růženkou sami dva. Já jsem byl vedoucí propagace a Růženka pracovnice propagace; nepropagovali jsme řetězy, nýbrž světový mír a přátelství mezi národy. Malovali jsme srpy a kladiva, rudé hvězdy všech velikostí, od malých hvězdiček po hvězdiska v nadživotní velikosti a červené karafiáty, devatero lučních květů a nápisy a nápisy a nápisy:
 
-  
+</section>
+
+<section>
 
 > AŤ ŽIJE MÍR  
 > MÍR MÍR NETOPÝR  
@@ -34,13 +42,17 @@ Pobývali jsme ve výzdobně s Růženkou sami dva. Já jsem byl vedoucí propa
 > ANI ZRNO NAZDAR, REPUBLICE NAZMAR  
 > NAZMÁÁÁR!
 
-  
+</section>
+
+<section>
 
 a jiné. Nápisy pak po řetězárně i na vhodných místech Spáleného instalovali a odhalovali dělníci z údržby. Unaveni vyčerpávající prací, pocákaní barvami sedávali jsme pak s Růženkou na stole pocákaném barvami, komíhali nohama, kouřili partyzánky, plivali na podlahu, klábosili nebo mlčeli a bylo nám spolu hej. Mně určitě hej bylo, bylo-li hej taky Růžence, to nemohu tvrdit s jistotou, jako nemůžeme o někom jiném s jistotou tvrdit nic. Vypadalo to tak, že i Růžence by mohlo být se mnou ve výzdobně hej, jenže do Růženky nikdo nevleze. A jak mi bylo hej, při pomyšlení na to, že Růžence třeba hej není, zvolna mi hej přestávalo být, až jsem se propadl do pochybností a do bezradnosti, co s Růženkou, co se sebou, co s útrobami bušícími zevnitř na žebra a hrudní kost.
 
 NAZMAR, NAZMAR, NAZMÁREK, KLANÍ SE VÁM KAŠPÁREK.
 
-  
+</section>
+
+<section>
 
 Pan Frost měl smůlu. Kdyby… To se nám to říká, kdyby! Teď. Jenže když na pana Frosta smůla číhala, žádné kdyby nablízku nebylo. Byl tam pan Frost a jeho smůla. A zdá se, že to na něj bylo ušito, a i kdyby kdyby zafungovalo, smůla by se dostavila jindy. Co se má stát, to se stane. Když se smůla vynořila, bylo už pozdě. Pozdě bycha honit… Víme, že si pan Frost s panem Rausem vyměnili se souhlasem tajemníka Klápštěte zaměstnání, která jim Zdenko Klápště původně přidělil. Víme tedy, že pan Raus pracuje v obchodním oddělení národního podniku Řetězárna a pan Frost v Divadle pracujících Zdeňka Nejedlého fidlá na violu v operách, baletech i operetách. Divadlo, které se kdysi jmenovalo Deutsches Theater, později Divadlo, bylo přejmenováno na Divadlo pracujících Zdeňka Nejedlého proto, že s přílivem pracujícího lidu do Spáleného po jeho historickém vítězství nad buržoazií bylo pracujícímu lidu umožněno trávit večery při ušlechtilých kulturních zážitcích v divadle. Proto pracujících. A proč Zdeňka Nejedlého? Protože soudruh profesor Zdeněk Nejedlý si to zasloužil: byl vynálezcem Boženy Němcové, Aloise Jiráska, husitství a Bedřicha Smetany, pokladů veskrze národních. Co bychom si bez nich počali? Tak proto. Zdeněk Nejedlý byl také ministrem kultury a byla po něm pojmenována spousta jiných divadel a kulturních zařízení, aby se zaryl do paměti národa a už v ní zůstal zarytý na věčné časy. Bez něj bychom nebyli kulturní národ, ale banda pobudů uprostřed Evropy.
 
@@ -76,7 +88,9 @@ Pan Frost měl spočteno a empiricky vyzkoušeno, že dojde do Parku osvobodite
 
 Pan Frost očekával, že bude následovat několik dalších úderů a pak přijde o violu, jako přišel kdysi o housle. Viola není jeho, vyfasoval ji z fundusu divadelního orchestru. Jenže jak zdůvodní dirigentovi, že nemá na co hrát? Nic vysvětlovat nemusel. Noční chodci mu zkroutili ruce za záda a zacvakli do želízek. Futrál s violou popadl Kvitko a nesl ho, jako by to byla aktovka se svačinou, až na stanici Sboru národní bezpečnosti. Po několika dnech byl nástroj v pořádku vrácen Divadlu pracujících Zdeňka Nejedlého. Pana Frosta převezli po předběžném výslechu do věznice v krajském městě. Tam si mohl beztrestně čurat do díry v rohu cely, kdykoli se mu zamanulo.
 
-  
+</section>
+
+<section>
 
 „Nevíš, co je s Frostem?“ zeptala se mě Klára při večeři U Švarné šenkýřky. Cpal jsem se klobásou s hořčicí, zakusoval gumovým rohlíkem od rána a zapíjel spálenskou desítkou – březovým pometlem. „Už tři dny se neukázal.“
 
@@ -93,3 +107,5 @@ Rozběhl jsem se za panem starostou:
 „Pane starosto, pane profesore, bojím se, bojím, že se mu něco stane!“
 
 „Něco s tím uděláme, Toníku,“ řekl pan profesor Zarašovský, když vyslechl mé povídání o panu Frostovi. „Ráno zavolám panu Poradci.“
+
+</section>

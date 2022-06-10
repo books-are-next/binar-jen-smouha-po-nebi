@@ -3,6 +3,8 @@ title: XVIII
 contentType: prose
 ---
 
+<section>
+
 V pondělí v sedm hodin ráno mi pod okny zahoukal zaoceánský parník. Dům se zachvěl v základech. Zrovna jsem cvičil každodenní rozhýbávací prostocviky. Odlepil jsem zadek od podlahy a vyhlédl z okna. Před bránou stála otřískaná dodávka a za ní zánovní autojeřáb. Vozidla se domáhala vstupu na můj pozemek. Hodil jsem na sebe župan a šel otevřít bránu. Ze strojů vyskákalo sedm snědých mužů v letech, měli na sobě modré overaly s bílým nápisem Mrkvička a červenou mrkví na zádech.
 
 „Tak jsme tady kvůlivá tej věži, švagře,“ řekl nejstarší.
@@ -59,11 +61,15 @@ Nad mým domem se tyčila vzdušná věž z ušlechtilého dřeva. Helebrant m�
 
 Švagři krkavci se svými stroji už tam nebyli. Ve schránce na dopisy jsem našel klíče, účet za hotové dílo a vzkaz na vizitce firmy Mrkvička napsaný tesařskou tužkou: _Růženka se má dobře. Má 1 syna a 2 vnučky_, _dvojčata Tonču a Růženku. Užij si věže, švagře, je moc pěkná._ – _Krkavci Bandyti_
 
-  
+</section>
+
+<section>
 
 Dnešní sen začal uprostřed pouště větrem fičákem. Přiválo mě to pod horu Rebarboru, na hoře stál větrný mlýn a mlel vítr na písek vhodný pro pouště. Písek se kupil pod mlýnem a soudruh učitel Králíček, matematik, se mu věnoval s pečlivostí sobě vlastní; dřepěl na hromadě a počítal zrnka, broukal si přitom: „Tolik dětí mám, tolik mi jich umřelo, tolik mi jich zůstalo…“ Nesl jsem mu radostnou zprávu od školského úřadu, že toho má nechat, hrozí mu zasypání. Skutečně mu hrozilo, on totiž nedřepěl, to se jen tak zdálky jevilo, vězel v hromadě písku po pás a další záplavy se na něj sypaly z mlýnského násypníku. Kdyby fičák písek nerozfoukával, byl by už soudruh učitel Králíček zasypaný. Na tváři jsem mu poznal, jak ho hněte, že nemůže dojít k výsledku. Zdálky jsem na něj volal, ať toho nechá, že mu nesu vysvobození, ale buď mě neslyšel, nebo nedbal. Písku přibývalo a soudruh učitel Králíček už v něm vězel po prsa. Na mé volání nereagoval, vybíral zrníčka písku z namleté hromady a kladl je na svoji směšně malou hromádku, mumlal cosi nesrozumitelného a pak docela srozumitelně zvolal: „Do prkenné ohrady, zase jsem se spletl o desetinnou čárku! Znovu, Bydžovský, znovu, Bartoši, chlapci nezvedení!“ – Mával jsem na soudruha učitele Králíčka papírem s kulatým razítkem školského úřadu: _Králíčku, nech toho a pojď už__,_ bylo tam napsáno modrým inkoustem. Už už jsem dokument Králíčkovi podával, když tu mi ho z ruky vyrval Bydžovský a strčil do pytle plného nakřečkovaných syslů. Soudruh učitel Králíček byl nadobro ztracen. Bez písemného příkazu nehodlal toho nechat. Pokusil jsem se vzlétnout, ale nešlo to za nic na světě. Obával jsem se, že sysli v pytli záchranný přípis školského úřadu sežerou. Dal jsem se do běhu a doběhl Bydžovského v temné sluji pod podlahou tanečního sálu v Hranicích na Moravě, v objektu kasáren. Byl tam také jeho nohsled Kvitko, dělili se o sysly jak loupežníci: jeden sysel Bydžovskému, druhý sysel Kvitkovi, jeden sysel Bydžovskému, druhý sysel Kvitkovi… Jenže syslů bylo liše, posledního museli přetrhnout vejpůl, kvůli spravedlnosti. Odhodlal jsem se ke skoku, jenže jsem uvízl v kasárenském dehtu a nemohl z něho vytáhnout nohy, jen jsem jednu povytáhl, dehet si ji vzal zpátky. V poslední chvíli mi starý Bydžovský, otec Bydžovského, zařval do ucha: „Něbuděš hajotem! Hajoči se žimne vody něboja!“ – Byl jsem pionýrem s rudým šátkem kolem krku, s nohama v téru. Kroutil jsem hlavou a zvolna se propadal, až jsem se propadl do postele, a hned mě napadlo, že bych mohl vystoupit na svoji krásnou novou věž, Mňau, a podívat se, jak vychází slunce. Jenže slunce už bylo vyšlé, stačilo se podívat oknem z postele. Viselo nad žlebem a dělalo na mě kyškyš!
 
-  
+</section>
+
+<section>
 
 Některé věci bych neřekl ani spící kočce, kočko. Ani tobě, Mňau, neřeknu všechno. Některým věcem nepřijdu nikdy na kloub, ačkoli se mě bytostně týkají. Růženka se mě bytostně týkala a nikdy jsem se toho nezbavil, ani teď, ve Spáleném, po tolika letech. Co jednou odejde, už se nevrátí, i kdyby se vrátilo. Vrátí-li se, už to není ono, už je to cosi jiného. Lépe je nevracet se, zůstat tam a jít dál, kamsi pryč… Nic není jisté. Nic není napořád.
 
@@ -139,7 +145,9 @@ Odvázal jsem Vezekmínovi pentličku a šel ji vrátit romskému trhovci ze Š
 
 Domů jsem se vrátil po prašných cestách vinicemi, ovocnými sady a olivovými háji, ale Růženku jsem tam nepotkal; jenom kudlanka nábožná se modlila ve stínu korkového dubu, o Růžence – ačkoli se znaly – mi nic nepověděla. – Červenou stužku jsem vrátil Vezekmínovi a z třísek na podpal rozdělal jsem ve velké keramické peci malý ohýnek, abych si v tom vedru italského léta aspoň trochu ohřál zkřehlou duši.
 
-  
+</section>
+
+<section>
 
 Asi po týdnu mě našel signore editore Giuseppe Innocenti ve společnosti trpaslíka v nadživotní velikosti. Nalil do mě deci grappy a chtěl nový příběh s prasátkem, které má u rypáku kníry od povidel. Ukázal jsem mu prostředník vztyčený v pěsti. Ukázal mi ukazovák a malíček vztyčené v pěsti a odjel do Livorna. Láhev grappy nechal stát v pozoru u trpasličích nohou. – Když se vrátil smlouvat, byla prázdná. Trpaslík ji vypil. Giuseppe uvařil kávu a nalil ji do mne bez cukru. Káva opilost nezmenší, jenom ji promění, učiní schůdnější.
 
@@ -174,3 +182,5 @@ Vrátil jsem se ke křížku, dovesloval do Livorna ke svému nakladateli Giusep
 „Nemohl. Toho outsidera nikdo nezná. Prasátko je oblíbené, jde dobře na odbyt,“ rozhodl fikaný editore a já jsem se mohl vrátit zpátky do vily v Bolgheri.
 
 Růženka tam chyběla. V její hrnčírně se na mne zubil trpaslík Antonín Vezekmín s červenou stužkou kolem krku. Kdyby Růženka chtěla, kdyby měla potřebu, nemusela by hledat po všech čertech, našla by mě doma. Kdyby mi chtěla aspoň napsat, znala adresu.
+
+</section>

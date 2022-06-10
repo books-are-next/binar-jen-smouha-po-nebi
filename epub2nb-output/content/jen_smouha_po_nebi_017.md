@@ -3,6 +3,8 @@ title: XI
 contentType: prose
 ---
 
+<section>
+
 Ten chlap ve fáračkách, Mňau, co tu dneska byl, je tesař Helebrant. Bude nám stavět věž, abychom dohlédli za třetí obzor. Někdy se tam slétají čápi a rokují o stavu žab a myší v českých zemích. Je to pěkný pohled, jak mávají křídly a klapou zobáky, jak se rozlétají na všechny strany. Odtud se budeme dívat, jak Lukáš s Gábinou učí létat letošní krkavčata. Projekt jsem zadal architektu Poštovnovi, znalci dřeva a znamenitému staviteli vyhlídkových věží. S projektem nebyl problém, ale sežeň tesaře, Mňau, který by tu věž postavil. Je to jako za bolševiků… Tvrdí o sobě, že je vyučený, ale já mám podezření, že byl havířem. Je v něm cosi havířského. Hned mně, dědkovi, začal tykat:
 
 „Nemaš co vypit?“ zeptal se, jakmile jsme si sedli ke stolu.
@@ -33,7 +35,9 @@ Přinesl jsem tu svátost. Kolik lidí se může pochlubit projektem od Poštovn
 
 „Nic nespadne, pane Bartoš, ja to zrobim fest!“ ujistil mě Hele­brant. – No, zdařbuch!
 
-  
+</section>
+
+<section>
 
 Zdál se mi lovecký sen o tatínkovi. A v tom snu ještě jeden, o fialovém králíkovi, který o sobě tvrdil, že je Alp, moje noční můra. Byli jsme s tatínkem na lovu, Mňau. S tatínkem na lovu! Jedeme autobusem s lovci, máme zastřelit lidožravou krávu. Mám flintu mezi koleny a musím, ačkoli se mi nechce, nikdy jsem nic nelovil a lovit nehodlal. – „Je to past, Toníku,“ promlouvá ke mně tatínek šeptem, „a nemůžeme se jí vyhnout. Pokud bychom se jí vyhnuli, kladeči pastí položí jinou, důmyslnější, nebo nás utlučou kloboučky se sojčím pírkem. Kličkování nikam nevede.“ – „Co kdybychom utekli?“ – „Doženou nás a bude to horší.“ Vedoucí lovec má hnědou rádiovku, tmavomodrý svrchník a na rukávu červenou pásku s nápisem POŘADATEL. Rozmístil nás po lese: „Nejdřív zavoláš: Stůj, kdo tam! Když neposlechne: Stůj, nebo střelím! Když zase neposlechne, výstřel do vzduchu, a když furt nic, tak doňho, soudruhu! Moc se s ním neser. Jasné?“ Ležel jsem ve stínu a čekal, když tu do mě cosi drclo čumákem: fialový králík! Už se mi jednou zdál, ale nebylo to na lovu. Zdá se, že jsem ve snu usnul a že se mi ve snu zdá sen už jednou odesněný. Ten králík řekl: „Jméno mé je Alp a jsem tvá noční můra. Utrhli mi ucho. Jak to vysvětlíš, Antoníne?“ – „Sotva,“ řekl jsem popravdě. – „Tak aspoň kravatu mi půjč, zelenou, Antoníne, jinou neberu; se šikmými červenými pruhy, uzel Amerika.“ – „Nemám. Mám jenom černou, ale nedám! Člověk nikdy neví, kdy ji bude potřebovat.“ – „Bez kravaty nemám šanci,“ řekl králík zoufale. Chápal jsem ho, šlo mu o všechno, musel tu kravatu mít, ale jak? Měl se snad picnout do hlavy? – V zelené trávě ušlapal jsem si pelíšek, přivinul k sobě fialového králíka s utrženým uchem a ulehl, aniž bych se znepokojoval úvahami o blízké budoucnosti, usnul jsem uprostřed snu, spal jsem s fialovým králíkem v náručí a zdálo se mi, že spím s fialovým králíkem v náručí. Už jsme žádnou kravatu nepotřebovali. – Najednou jsem byl vzhůru; proti tmavomodrému nebi se mezi kmeny stromů zjevil černý stín se dvěma bodci.
 
@@ -45,7 +49,9 @@ Prásk! Prásk!
 
 Vzplanul požár, oheň mi olízl mozek a hrudník sevřela tíseň, jako by mě zasypala fůra mokrého písku. Tma. V černé tmě se zjevil tatínek a měl kolem krku bílý copánek. Řekl: „Nevěř všemu, co ti kdo nakuká, ani kdyby to byla pravda.“ – Fialový králík, Mňau, se mi vysmekl z náručí a na prach shořel.
 
-  
+</section>
+
+<section>
 
 Vyprávěl jsem Růžence ve výzdobně o panu Frostovi, znamenitém hudebníkovi, který mě učil, učil, ale nenaučil, o tom, co se mu zrovna přihodilo a jak jsme neuspěli já ani pan profesor Zarašovský, starosta.
 
@@ -121,7 +127,9 @@ Když jsem pozvedl zrak nad oltář, jako by se z temného mraku vyřítil zpě
 
 „Proč ne?“ odpověděla otázkou a měla stejný výraz jako ta panna z obrazu. Přistoupil jsem k Růžence a začal rozvazovat červenou pentličku v černých vlasech. Opatrně, aby se nezasukovala. Pak jsme ji zapomněli na oltáři.
 
-  
+</section>
+
+<section>
 
 To by bylo, aby starosta města neměl telefon. V druhé polovině dvacátého století uprostřed Evropy! Samozřejmě, panu profesoru Zarašovskému připojili soukromý telefon hned, jakmile byl zvolen starostou; aby nemusel na úřad s každou prkotinou, nebo kdyby potřeboval doktora… Už tenkrát, Mňau, byl telefon zařízením často používaným, ale pan profesor telefonoval nerad. Mluvit s někým, kdo není přítomen, připadalo mu neosobní, nepřirozené. Jak se tváří? Třeba se šklíbí, škrábe na zadku nebo si u nosu vymačkává pupínek. Jenže někdy není zbytí. Tentokrát zbytí nebylo a pan starosta chtěl telefonovat stůj co stůj. Jenže tentokrát by se z domova nedovolal, musel na radnici. Na radnici chodil nerad, číhaly tam na něj všelijaké papíry, přípisy, zápisy a předpisy, vyhlášky a dotazníky s nekonečnými vysvětlivkami, nařízení a řízení, razítka a regály se složkami, pořadače, zařazovače a vyřazovače, odpadkové koše, pijáky a gumy, násadky, pera a tužky, dotazy, žádosti a stížnosti, podání a udání… Naštěstí tu byl Zdenko Klápště, čiperný tajemník, všechno potřebné zařídil a vyřídil, znamenitý muž, bez něj by se pan profesor v úřadování utopil. Pan starosta docházel na radnici nepravidelně a zřídka, pokud došel, pokud ho ptactvo neupoutalo tak, že začal bádat cestou a na úřad ani nedorazil. Akta k podpisu mu Klápště nosil v tuhých deskách domů.
 
@@ -165,7 +173,9 @@ Jenže tentokrát šlo o pana Frosta, muzikanta v nesnázích. Přímá telefo
 
 „Jak myslíte…“ řekl Klápště a podstrčil panu starostovi lejstra k podpisu. Aspoň si ušetří cestu do vily. Jindy by to všechno profesor Zarašovský podepsal bez mrknutí, tentokrát si nasadil brýle.
 
-  
+</section>
+
+<section>
 
 _Občané a občanky Spáleného!_
 
@@ -193,7 +203,9 @@ Na všech nárožích už to viselo vytištěné tučnými písmeny a podepsan�
 
 Pan profesor se rozhlédl po obloze, hledal útěchu ve vlaštovkách, ale žádná tam nebyla. Už se kdesi na drátech srocovaly k odletu.
 
-  
+</section>
+
+<section>
 
 Tu výzvu, Mňau, nenapsal Klápště sám. Impuls pocházel od Poradce, o tom není pochyb, ale někdo mu s tím musel pomáhat, už kvůli pravopisu. Vzápětí se ve Spáleném objevila další významná listina. Pracující národního podniku Řetězárna houfně podepisovali otevřený dopis adresovaný soudu, který měl posoudit Frostův zločin. Signatáři požadovali co nejpřísnější potrestání, ačkoliv nevěděli, čeho se pan Frost dopustil a jestli bude vůbec obviněn. Šel jsem na radnici, ale tam seděl jenom Klápště a odkázal mě na vyhlášku podepsanou profesorem Zarašovským. Běžel jsem do vily a našel tam zlomeného člověka. Seděl v pracovně, opatrně vytrhával z knihy o vlaštovkách listy, skládal z nich papírové vlaštovky a házel je po pokoji. Létaly mizerně.
 
@@ -204,3 +216,5 @@ Tu výzvu, Mňau, nenapsal Klápště sám. Impuls pocházel od Poradce, o tom 
 Otevřený dopis požadující spravedlivý trest pro pana Frosta podepsali v řetězárně všichni. Taky Zuzička Zarašovská podepsala; aby ji nepřeřadili z oddělení kontroly na mizerně placenou a těžkou práci ve výrobě. Jen my dva s Růženkou jsme nepodepsali – na větší odpor jsme se nevzmohli –, tvrdili jsme zbaběle, že jsme o žádném podepisování nevěděli, protože za námi s dopisem nikdo nepřišel. Museli jsme se však zavázat, že po pracovní době a bez nároku na mzdu namalujeme pro čelní stěnu radnice nápis, který bude vzdorovat větru, dešti:
 
 SE SOVĚTSKÝM SVAZEM NA VĚČNÉ ČASY!
+
+</section>

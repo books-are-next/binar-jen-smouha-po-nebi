@@ -3,13 +3,17 @@ title: VI
 contentType: prose
 ---
 
+<section>
+
 Jakýsi podivín nasázel na palouku v lese u potoka záhon bledulí. Stojí tam jak rota vojáků při nástupu k rozchodu do zaměstnání. Rozkvetly všecky, bílé báně sklánějí k zemi, v prořídlém lese jsou neokázale půvabné, u potoka jim to sluší. Snad žádný desátník nezavelí, aby odpochodovaly někam na cvičák. Zima ještě neodešla docela, zbytky sněhových jazyků olizují zastíněná místa na severních stráních, zrnitý firn s umouněným povrchem se krčí v příkopu a pozvolna se scvrkává, choulí se, aby ho nebylo vidět, aby ho rota bledulí nezahlédla a nepostřílela.
 
 Nahoře v pokoji s křeslem a zrzavou kočkou Mňau se zvolna probouzejí loňské mouchy a ještě rozespalé vylézají ze škvíry mezi okenním rámem a oknem. Rád bych si poslechl, co si přitom povídají, jaké mají plány do nastávající sezony. Jenže to bych si musel nejprve jako Jiřík z pohádky uloupnout kousek z hada upečeného pro krále a pak si nést následky. Nejspíš by mi pověděly, jak se dá v úzké štěrbině přežít zima. Určitě by mi neprozradily, co mají za lubem letos v létě. Tyhle nejspíš pochcípají a vylíhnou se jiné. – Kdybych uměl po kočkovsku, Mňau, popovídali bychom si líp, než si teď spolu povídáme?
 
 Napadlo mě, že bych si měl nechat udělat pořádný projekt od renomovaného architekta. Doporučili mi Poštovnu, umí prý to báječně se dřevem. A tak jsem si u něj objednal věž, ale ne ze slonoviny, abych se do ní uzavíral před světem, chci po Poštovnovi projekt vyhlídkové věže, abych dohlédl za obzor, abych lépe viděl, jak Lukáš s Gábinou tančí po obloze svatební tanec krkavců. Abych nepropásl Modrého smíška, až zas někdy propluje nad Spáleným.
 
-  
+</section>
+
+<section>
 
 Probudil jsem se v bruslařské klubovně a popadla mě hrůza. Zděsil jsem se prázdna, jež se mi rozprostřelo v duši. Zhrozil jsem se představy, že tady končím a nevím, je-li nějaké tam. Není… – Tady byl Vladislávek; seděl na stole a klátil nohama. Když jsem zaúpěl, seskočil a přinesl mi vodu.
 
@@ -27,11 +31,15 @@ Jenže já už jsem žádnou vodu nechtěl, Mňau, voda mou žízeň uhasit nemo
 
 Jenže včera odpoledne na přírodním kluzišti ve Spáleném došlo k proměně. Led roztál a z něj se vyloupla živoucí dívka. A já, Mňau, nedostudovaný gymnazista Antonín Bartoš, jsem se zamiloval. V tu ránu! Se vším všudy jsem se do Zuzičky zamiloval.
 
-  
+</section>
+
+<section>
 
 Tento sen, Mňau, je mi z duše protivný. Je nepříjemný, kousavý a pichlavý, zadírá se do mne, jako bych se prodíral uschlým trnkovým křoviskem. Nejraději bych na něj zapomněl, ale nemohu, pořád se vrací. Je tu zas, jako bych mu něco dlužil; něco významného, nač nelze zapomenout, co ze mne musí vyrazit. Je žlutý, místy doběla rozžhavený, plný písku: jemňoučkého jak pudr v pudřence, ale i hrubého, ze zrnek podobných zadečkům lesních mravenců. Všude kolem jsou špičaté skleněné střepy a suchý vítr na ně píská, válejí se tu rozlámané žiletky, rezavé i docela nové, lesklé, čepele nožů, dýk a mečů ční mezi trny. Brodím se žlutou řekou bez vody, brodím se rozpáleným pískem plným žlutých mravenců s čerstvě nabroušenými kusadly, písek mám v očích, zalézá pod víčka a pálí, písek mám v ústech, skřípe mezi zuby, drtím ho, ale nerozdrtím, zuby se lámou na střepiny, vyndávám je z úst, jsou obludně velké, jako kameny. Házím kameny do písečné řeky, utápějí se v písku, na hladině se dělají kola, písek vystříkne až ke slunci a snáší se na mne, zahryzává se mi pod kůži. Na břehu stojí chatrč, klec sestavená z vybělených bidel zbavených kůry, s šustivou doškovou střechou. Škvírami mezi bidly je vidět dovnitř i skrz až do lesa, odkud bidla pocházejí, do lesa ostrévek bez jehličí a bez listí, s vysušenými hnízdy uprchlých veverek a odlétnuvších ptáků. V kuchyni na hambalku sedí pěnice a pěje píseň dokola okolo stolalala, špičatou píseň o bodláku. – Jestli to bude pokračovat, nevydržím. Jenže ono to pokračuje písečnou bouří. Chci utéct, ale nemůžu vytáhnout nohy z písčiny, drží mě tam myrmeleon Ťutínek a kusadly kouskuje levou nohu na padrť. Ještě mám pravou, ale co dál? Jak teď, o jedné noze, z takového snu uprchnout?
 
-  
+</section>
+
+<section>
 
 Přišlo jaro do Spáleného. Pan Raus vyndal špunt z kluziště, roztátý led vytekl podzemní strouhou do řeky a na dně mělké nádrže se rozklikatil potůček, kolem něj se začala drát ze země tráva a všelijaké bejlí, vykvetly petrklíče a blatouchy. Ptactvo se začalo shánět po stavebním materiálu na hnízda, aby mělo kam snášet. Naši krkavci – Lukáš s Gábinou – měli postaveno už dávno, taková je výhoda monogamního vztahu. Bydleli ve věži u svatého Antoníčka, aby na ně za deště nepršelo. Stačilo jen vyspravit šrámy po kruté zimě, a mohla se klást vejce. Ale než k tomu dojde, ještě je třeba uspořádat milostný krkavčí let naplněný láskyplnými sonety. Lukáš s Gábinou vědí jak žít.
 
@@ -101,7 +109,9 @@ Nazítří poté, co se odehrálo krasobruslení, probudil se Miloš Muciška v�
 
 Básníkova ústa byla pootevřena, ale slovo z nich nevyklouzlo. Sbalený kufr stál už přede dveřmi.
 
-  
+</section>
+
+<section>
 
 U Švarné šenkýřky se našel volný pokojík pro básníka, jemuž dočasně zamrzly rýmy. Živil se konzervami a hodně kouřil, kouř foukal dvířky do kamen, nerad otevíral okno, aby nechytil průvan. Na toulkách Spáleným občas potkával psa podobného lišce. Snažil se ho přilákat, ale pes pokaždé zvedl pohrdavě čenich a odkráčel za svými potkany. Muciška se několikrát odhodlal zabušit na dveře knihkupectví, Soňa však zůstala neoblomná, ani Věrčiny přímluvy nebyly nic platné.
 
@@ -151,7 +161,9 @@ Svorně jsme v temném stínu jilmu u plotu počkali, až se vchodem pro služ
 
 Když jsme už měli rasův domek na dohled, trklo mě do očí jasně ozářené okno. Tak jasné světlo přece nepochází od svíčky nebo petrolejky. To vypadá na karbidku, v obyčejném světě si těmi syčícími lampami svítí trhovci ve stáncích. Jenže karbidka to nebyla. Panu Rausovi se po dlouhých a náročných pokusech provázených nezdary podařilo uvést do provozu vodní elektrárnu a proud napojit do veřejné sítě. Po dlouhé době se ve Spáleném opět rozsvítily žárovky.
 
-  
+</section>
+
+<section>
 
 Znovuzavedení elektriky se muselo, Mňau, oslavit. U Švarné šenkýřky se rozžehla všechna světla, Vladislávek oběhl přihnance, aby přišli. Soňa Mucišková už to věděla, v kuchyni nad stolem se jí rozsvítilo samo od sebe. Knihkupec Büchler, když odcházel, zapomněl zhasnout.
 
@@ -182,3 +194,5 @@ Jako by to byl pokyn k odchodu. Všichni dopili a zvedli se ze židlí. Také 
 „Dost velký…“
 
 „Ukaž!“ řekla. Chytila mě za ruku, ve které jsem držel plnou sklenici. Byl jsem blázen. Dvoudecovku! Tuze mladý a tuze hloupý blázen. „Nebuď blázen!“ poručila a vylila kořalku na kostičkovaný ubrus: červený a bílý, jaké bývají v hospodách. Notně to zasmrdělo. Celou dobu jsem klopil oči. Díval jsem se, jak se skvrna šíří po ubruse. Kdybych škrtl sirkou, výpary by vzplály, shořely by chorým, namodralým plamenem a ubrus by možná zůstal neporušen. Klára mi zajela oběma rukama do vlasů. Jejich prameny jí musely protékat mezi prsty. Hrnek s čajem se převrátil. V ústech jsem ucítil její mátu peprnou. Kdybych té noci umřel, odešel by ze světa chlap. – Ale co teď se Zuzičkou?
+
+</section>

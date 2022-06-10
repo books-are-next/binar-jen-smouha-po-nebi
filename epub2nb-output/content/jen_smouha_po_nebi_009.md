@@ -3,6 +3,8 @@ title: III
 contentType: prose
 ---
 
+<section>
+
 Na vybledlém nebi visí litera C. Měsíc už zase couvá. Je šest hodin, ve skutečnosti je jich pět, letní čas. Zavedli ho inženýři proti vůli přívrženců přirozeného plynutí. Mlčky jsme tomu přihlíželi a teď nezbývá než sklapnout a posunout hodinky o hodinu. Nikdy nevím jistě, jestli dopředu nebo dozadu. Inženýři se pletou do všeho, ničemu nedají pokoj, do všeho dloubají, ve všem se šťárají, a když to pokazí, už to nedá nikdo zpátky. Co se může pokazit, bude pokaženo. Na plot si sedl pták, vzácný pan vrabec, a švestka se dala do kvetení. Kdyby páni inženýři rozebrali vrabce a znovu ho bez chyby poskládali, lítat nebude. Je jaro, s tím se nedá šíbovat. Vrabec odletěl, chvilku neposedí…
 
 Bílé chomáče v čerstvé krajině jsou rozkvetlé trnky, taky divoké třešně už začínají. Kravěnce od loňska ještě nezetlely, pokryla je šedá kůrka s dírkami a tráva kolem nich se zelená víc než tráva vzdálenější. Borovice má ležérně posazenou korunu, a nebýt jiných borovic, sama by do takové výšky nevyrostla, vytahují se jedna před druhou. Jenže ostatní nedávno sťali a jenom tuto nechali na semeno. Smrku u cesty sedřel stroj kůru, lepkavou smůlou tiše pláče. Nebo krvácí?
@@ -11,7 +13,9 @@ Měli jsme doma, Mňau, obraz Štramberské trúby od Reinekeho Fuchse, malíře
 
 Nad mým domem totiž létají krkavci, Lukáš s Gábinou. Létali tam už tenkrát, když nás do Spáleného přihnali, když se mi o vlastním domě ani nesnilo. Ano, krkavci! Nejsou to vrány ani havrani, nejsou to kavky ani kavčata, jsou to krkavci, spořádaný pár, ptáci monogamní, létají spolu, krkají si něžnosti, jako by cukrovali; letité manželství, a přesto se zjara znovu a znovu namlouvají, krkavci úžasní…
 
-  
+</section>
+
+<section>
 
 Probudil jsem se, Mňau, celý dolámaný – s tou postelí bych měl už něco podniknout – a slunce ne a ne vyjít. Obvykle vychází nad stěnou stromů nad žlebem, ale dneska se zaseklo. Jupiter už vybledl a stromy sebou melou ve větru. Bloudil jsem chvíli v perském vzoru koberce a nemohl se vymanit z osidel čar a tvarů, symbolů, jimž za mák nerozumím. Než jsem se probudil, zdálo se mi toto:
 
@@ -19,7 +23,9 @@ Probudil jsem se, Mňau, celý dolámaný – s tou postelí bych měl už ně
 
 V tu chvíli jsem se, Mňau, probudil. Slunce nakukovalo oknem od žlebu, moje stará bunda z Bolgheri visela přes židli a vesele se smála.
 
-  
+</section>
+
+<section>
 
 Bez Vladislava Rause by bylo všechno mnohem těžší. Nikdo z nás totiž nebyl tak praktický jako pan Raus, otec uřehtaného Vladislávka. V domku po rasovi našel petrolejku. Byl to nález významný, Spálené odpojili od elektřiny. Ve světle petrolejové lampy objevil pan Raus pod kůlnou v temném zákoutí plnou káď vykvašených švestek a na půdě pod otýpkou slámy měděný přístroj na pálení slivovice. Kotel byl v černé kuchyni, buková polínka naštípaná v koši vedle topeniště. Vladislávek přikládal a řehnil se přitom, ani se nepopálil. A koštoval, jestli už, nebo až za chvilku.
 
@@ -87,14 +93,18 @@ Zdenko Klápště nevěděl, co by. Vyskočil ze židle a nabídl ji Kláře s�
 
 Když dozněl smích, nastala chvíle pro básníka. Seskočil ze stolu, na němž se tulil k manželce, stoupl si na mřížku odtokového kanálku a spustil:
 
-  
+</section>
+
+<section>
 
 > „Klára Clarissima,  
 > ta je vždycky prima.  
 > Podpatky má vysoké,  
 > srdíčko má široké…“
 
-  
+</section>
+
+<section>
 
 Nepochybně na tomto produktu pracoval od chvíle, kdy se dozvěděl Klářino jméno. Vladislávek se hlasitě rozřehtal. Zuzička tiše tleskla rukou o ruku, plaše se rozhlédla kolem, a když zjistila, že se nikdo nepřidal, přikryla pomněnkové oči víčky a schoulila se do sebe. – Báseň jak vznikla, tak zanikla, jen ta Clarissima se ujala. Klára Clarissima.
 
@@ -128,7 +138,9 @@ Jako poslední, zrzavá kočko Mňau, se dostavil pan Frost. Při tom běhu jsem
 
 Jindy přeochotný Klápště přehlédl pana Frosta jako cosi, co pořádná kočka zahrabává. Ať si najde své místečko sám, nebo ať táhne k čertu, pomyslel si Zdenko Klápště, ochotný posloužit kdekomu, ale ne každému.
 
-  
+</section>
+
+<section>
 
 Nechoď tam, Kašpárku, je za rohem! Číhá na tě s paličkou, volají děti v loutkovém divadle na svého přítele, aby ho varovaly před nebezpečím. Ale Kašpárek nedbá jejich volání a jde tam, jako by je neslyšel. – Taky pan Frost šel, protože tudy vedla jeho cesta. Jenže na něj nikdo nezavolal: Tamtudy ne, pane Froste, číhají za rohem!
 
@@ -168,7 +180,9 @@ Kvitko taky bez mrknutí vylovil z prkenice dvě stovky a položil je na dlaň
 
 Když potom pan Frost s harmonikou na zádech a s houslemi v ruce klopýtal nad ránem domů, čekali na něj féroví synci za mostem. – Nechoď tam, Kašpárku, jsou za rohem! – Vytrhli mu housličky z ruky, vyndali je z futrálu a rozbili napadrť o rádiovku s anténkou…
 
-  
+</section>
+
+<section>
 
 Lidé, Mňau, jsou ve své zášti vynalézaví a neúprosní. Tohle vy, kočky, sotva pochopíte, něco takového se vám sotva vleze do hlavy.
 
@@ -189,3 +203,5 @@ Shromáždili jsme se kolem kašny a pan Raus na tu zkázu posvítil baterkou. 
 „Objevil jsem po panu Vinz. Tlachovi zapomenutou flašku,“ řekl profesor Zarašovský, „jmenuje se Hennessy a je jí smutno samotné.“
 
 Ještě si dost dobře pamatuju, drahá Mňau, jak jsme vystupovali po schodech do vily, po nekonečném schodišti, na jehož zábradlí dřepěli temní pávi, jako by tam byli rafinovaným architektem vkomponováni. Nekřičeli, jenom se na nás dívali. Probudil jsem se na řetězech v řetězárně s hlavou bolavou a se Saharou v ústech.
+
+</section>
