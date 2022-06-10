@@ -3,11 +3,11 @@ title: IV
 contentType: prose
 ---
 
-  
-
 Ještě nebylo tři čtvrtě na čtyři odpoledne a mezi stromy ve svahu, mezi vysokými kmeny smrků, které zbyly po zběsilém kácení prý kvůli kůrovci údajně přemnoženému, jenže pravým důvodem je hrabivost, chtivost peněz za dříví, nic jiného –, mezi kmeny s čupřinou haluzí ve vršku se náhle vynořil úplný úplněk na ještě světlé, bledě šedomodré obloze.
 
 Možná že by ta věž, o které sním stále častěji, nemusela být z kamenů a cihel, snad by stačila ze dřeva, těsně u domu. Měla by mít kruhový půdorys jako Štramberská trúba, dva vchody: jeden zvenku, ze zahrady, a druhý z mé pracovny, když bude pršet, abych nezmokl, a točité schodiště. Jenom jestli to vůbec půjde, nevzpomínám si, že bych někde potkal dřevěnou věž o kruhovém půdorysu. Není to pošetilé? Stavět si u domu dřevěnou Štramberskou trúbu…
+
+  
 
 V řetězárně jsem zalíbení nenašel, na řetězech jsem přespal jenom jednu noc, ale vždyť to žádná noc nebyla, bylo to ráno, pozdní ráno a celé dopoledne, přes poledne až do odpoledne po seznamovacím večírku v rasovně, do tvrda opilý čerstvou slivovicí šikovného Rause staršího. Celé tělo mě bolelo. Ostatní už si zřejmě nějaké bydlení našli, jenom já, lehkomyslný klučina, jsem se jak ptáče nebeské o zítřek nepostaral. Řetězy tlačily a studily a žízeň byla třeskutá. Tak strašně jsem se nikdy předtím neopil. Tenkrát jsem byl tuze mladý zajíc, sotva plnoletý. Naštěstí plnoletý! Jinak bych vězel s Ankou v sirotčinci. Tak děsivě jsem se neopil, ani když jsem pijával doma sám. Jako by mi na jazyku narostly chlupy a slepily se patlavým lepidlem. Ruce se mi třásly, celé tělo bylo rozechvělé, nejvíc žaludek, vibroval a hučel jako transformátor v zimě. Chmury na stonožčích nožičkách probíhaly zmateně rýhami po mozku sem a tam, osedlány neodbytnou výčitkou.
 
@@ -37,23 +37,35 @@ Nalila mi do půllitru pivo z láhve s porcelánovým uzávěrem utěsněným 
 
 V hospodě U Švarné šenkýřky v patře se pro mě našel pokojík s litinovými kamínky na prohnutých nožkách. Byla tam postel, stůl, židle a skříň.
 
+  
+
 V hospodě U Švarné šenkýřky jsem pár měsíců bydlel i po návratu z teplých krajin, než mi postavili dům ve svahu za potokem, daleko od lidí. Jenže se to jmenovalo Pohostinství a nikoho z dřívějška, Mňau, jsem tam nepotkal. Kdovíkam se zatoulala Klára Clarissima… Občas jsem zašel na staveniště dohlédnout, jestli se řemeslníci neflákají. Dům už stál, střecha pokrytá, okna zasklená, ale ještě se v něm bydlet nedalo, ještě tam hvízdali řemeslníci, dodělávali podlahy a schodiště, taky dřevěné obložení stropu v patře. A když odešli, toulaví ptáci našli otevřené okno a proháněli se prázdnými místnostmi, vráželi do zavřených oken, křivili si zobáky a padali na zem, tloukli křídly do podlahy a zpitomělí nárazem nemohli najít cestu ven. Byl by to, kočko, snadný úlovek. Nedůstojný, asi by tě to nebavilo. Tak se pusť do předení a já ti povím, co se mi zdálo, když jsem v našem domě spal poprvé, jen tak ve spacím pytli na podlaze.
 
 Zdálo se mi, že jsem ve Spáleném a nesmím se vrátit domů, do Bolgheri, za Růženkou. Co si beze mne počne? Co si já počnu bez ní? Bez Růženky bych utéct nedokázal, a teď jsem tady a ona tam, ve voňavém Toskánsku.
+
+  
 
 Cypřiše vysoké a napřímené,  
 jež v Bolgheri jdou od San Guido spolu,  
 jako když mladých obrů houf se žene,  
 vstříc vyběhly a patří na mne dolů.
 
+  
+
 Copak je už nikdy neuvidím? Alej cypřišů od kapličky San Guido až k městské bráně… Popadli mě a vlekli Spáleným. To je on, ozývalo se ze všech stran, mířily na mne stovky ukazováků. To je on, už ho máme! Ano, byl jsem to já, už mě měli. Zkroutili mi ruce a nasadili pouta, lesklá, chromovaná. Dovlekli mě na louku za město, dali na krk obojek a uvázali řetězem ke kolíku. Napas se, pacholku, jako doma, jako doma! Utvořili kolem kruh a pustili se do skandování: Do-ma! Do-ma! Do-ma! Zuby jsem uškubl pár stébel, abych projevil dobrou vůli, ale nedokázal jsem to spolknout. Vzepřel jsem se, vytrhl kolík, prorazil kruh zkoprnělých přihlížejících a dal se do běhu. Kolík na řetězu mi klapal za patami. Chyťte ho! Chyťte ho! volali a pustili se za mnou. Zdálo se, že uniknu, podařilo se mi dorazit do cypřišové aleje:
+
+  
 
 Poznaly mne. Oh, že ses vrátil, hochu!  
 – s hlavami skloněnými šepotají –  
 „Což nevstoupíš? Nezdržíš se trochu?  
 Je svěží večer, ty se vyznáš v kraji…“
 
+  
+
 Jenže pak jsem klopýtl, z nebe se na mne sesypalo hejno uřvaných sojek, začaly mě štípat do obličeje. – Probudil jsem se, Mňau, ve Spáleném, v nedostavěném domě a na podlaze u zavřeného okna ležel mrtvý rehek.
+
+  
 
 Všechno tu bylo, když jsme dorazili, když nás hrstku přihnanců – zahnali za bílý kruh, do katastru města Brennstadt, všechno, co je zapotřebí k životu: obchody nevyprodané, truhly plné mouky, sýpky překypující obilím, ve sklepích brambory, soudky se zelím a okurkami, povidla v hrncích, marmelády a zavařeniny v policích; slepice na dvorcích pilně hrabaly, na noc se samy ubíraly do kurníků. Muciškovi se podařilo polapit několik uprchlých a zdivočených králíků; nacpal je do prázdné králíkárny na dvorku knihkupectví, aby jeho žena Soňa měla co krmit a zabíjet. Pole po vyhnancích byla obdělána a oseta ozimy, nástroje, nářadí a stroje zůstaly na statcích v okolních vesnicích bez lidí. Bochníky chleba zabalené v šátcích byly okoralé, porostlé bujnou plísní, ve studnách se na hladině utvořila blanka. Z městského vodovodu tekla rezavá voda. Všude plno blahobytných myší a potkanů neochotných odklidit se z cesty. Pilných koček, Mňau, se tu nedostávalo. Přespávali jsme v cizích peřinách, vyjídali čísi zásoby – z komína uzené, ze spíží mouku, hrách, čočku a sušené švestky… Vždyť by se to zkazilo! Byli jsme jmelí na jabloni.
 
@@ -121,7 +133,11 @@ Zděšená Zuzička se tiskla k zadní stěně, chtěla vykřiknout, chtěla k�
 
 Z gymnaziální tělocvičny jsme se museli dostávat oknem, strážný pytlák odtáhl s ostatními a nechal nás tam zamčené.
 
+  
+
 Namrzlá zem, ojíněná tráva a slunce nízko na obzoru bije do očí. Stíny jsou protáhlé, útlé, gotické a naléhavé. Poutní kostel zasvěcený svatému Antonínovi v lese nad Spáleným ještě stojí; je zarostlý kopřivami, ostružiním, jeřáby a břízami už notně vzrostlými i přesto, že rodáci z Brennstadtu nasbírali nutnou sumu peněz na jeho záchranu. Kostel je opravený, přesto pustne dál. Nikdo tam nechodí. Peníze nejsou všechno, víra chybí. – Jeho plenitelé před lety plenili pro radost z plenění. Obávám se, Mňau, že jejich pohnutkou nebyla ani tak nenávist, spíš to byla slast; orgasmus, jehož lze dosáhnout při ničení krásy. – Taky jsem se dopustil svatokrádeže: z trosek na podlaze rozmláceného kostela jsem sebral dřevěnou ruku; barokní ruku uťatou opatovi poustevníků, vítězi nad pokušením, svatému Antonínovi.
+
+  
 
 Led na kalužích je tenký a neobvykle kluzký, slyším zlověstné praskání, vidím trhliny pod nohama, ale jdu dál, jiná cesta tudy nevede. – O tom, co se odehrálo v horním patře vily po majiteli řetězárny, Zuzička nikomu neřekla.
 

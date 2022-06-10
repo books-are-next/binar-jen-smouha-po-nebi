@@ -3,17 +3,19 @@ title: VIII
 contentType: prose
 ---
 
-  
-
 Probudil mě rachot, jako když se za starých časů ulicemi proháněly tramvaje. Ale z vyhřátého pelechu se mi nechtělo. Třeba to není konec světa… A kdyby byl, už jsem si tu pobyl dost dlouho. Nemusel bych shánět tesaře, aby mi stloukl věž. Konec světa leccos vyřeší.
 
 Pak mi to nedalo, vykutal jsem se zpod deky. Po louce za domem jezdí stroj velikán a sbírá posečenou trávu přeměněnou v seno. Polyká, polyká a každou chvilku z něj vypadne krátký tlustý válec zabalený v bílém. Louka už je jimi poseta až k prvnímu obzoru, dál nedohlédnu. Jakmile budu mít věž, dohlédnu za třetí obzor. Poštovna už poslal plány, stavební postup a taky rozpis materiálu do posledního prkýnka, do posledního šroubku. Všechno ušlechtilé a velice drahé. Krásné věci nebývají zadarmo.
 
 Sousedům včera přejeli kočku. Bylo to nákladní auto naložené dřívím, ani nezastavilo, jako by k žádnému neštěstí nedošlo. Dávej pozor, Mňau, při přecházení silnice, aby tě nějaký šílenec naložený dřívím z lesa nepřejel, aby z tebe nezůstala placička.
 
+  
+
 Sen. Bílá pláň jak vyžehlené prostěradlo, ale sníh to není, je mi teplo. Jsem v té běli bezradný, polekaný, je neútulná, není se kam skrčit, nemám, kde bych se svinul do klubíčka. V zádech cosi překotně dýchá. Je to fialový králík s ustřiženým uchem. – „Nevíš o nějaké fialové králičici?“ ptá se zoufalý. – „Kdeže,“ krčím rameny. – „Každý má přece právo na trochu toho rozmnožování… To mi přece nikdo nemůže upřít!“ říká ten králík, z taštičky tahá nůžky a cvak! i to zbývající si ustřihl. V tu ránu se bílá pláň naplní fialovými králičicemi s jedním uchem. Shlukují se kolem nás, stále jich přibývá, zadní se cpou na přední, aby byly co nejblíž, aby se mohly králíka dotýkat, tlačí se taky na mne, jenže co se mnou, co já s tím, páchnou králikárnou, mají hlodavé zuby, ostré a nelítostné. A ty jejich nosíky, stále v pohybu. Fialový králík zmizel, jsem tu sám v záplavě králičic, tlačí se na mne, tísní, nejvyšší čas, abych se probudil. Jenže sen trvá dál. Nízko nad námi se vznáší sova pálená a vyzobává z králičic rozinky. Mám strach, aby taky ze mne něco nevyzobla. Už se blíží, už se snáší, už do mne zatíná zoban a vyzo…
 
 Ne, nevyzobla, Mňau, probudil jsem se včas a den strávil bez následků. A kdypak přivedeš rotu čiperných koťátek do našeho osamocení?
+
+  
 
 V květnu přestalo pršet, vody opadly, země vyschla, holubice se vrátila s čerstvou olivovou ratolestí v zobáčku. Tak jsme poznali, že je po všem. Byli jsme zachráněni, mohli jsme archu opustit, rozštípat a spálit.
 
@@ -76,6 +78,8 @@ Vladislávek zvedl hlavu od jahod se šlehačkou, utřel si pusu do rukávu a z
 „Na družbu!“ zvolali jsme také my, vylosovaná elita Spáleného.
 
 Zpili jsme se do němoty ještě před polednem. I pan profesor Zarašovský se opil, aby projevil dobrou vůli. Takové množství kořalky jsme nevypili ani při seznamovacím večírku v rasovně. A já jsem toho – jako vždycky – vypil ze všech nejvíc. Nepamatuju si, jak se mi podařilo přebrodit čerstvě zalidněné náměstí ke Švarné šenkýřce. Vzhledem k úplné indispozici jsem se nezúčastnil všeobecného nasazení při úklidu města po záplavách.
+
+  
 
 Z úporné kocoviny jsem se vyhrabal až po třech dnech s hlavou plnou zmatku. Události před usnutím se mi pletly, zřetelně jsem si pamatoval nekonečný déšť, co následovalo, pokládal jsem za divoký sen. Opilost a její následky překryly to, co se přihodilo po záplavách. Pohled z okna mě vrátil realitě. Bál jsem se vystrčit nos. V lokále seděli cizí chlapi v montérkách, na nohou měli zablácené gumové holinky s ohrnutým okrajem a pili pivo. Vplížil jsem se do kuchyně, a když tam Klára vběhla pro ohřáté párky, řekl jsem si o štamprli na kuráž.
 

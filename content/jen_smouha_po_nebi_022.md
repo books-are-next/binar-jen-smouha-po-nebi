@@ -3,8 +3,6 @@ title: XVI
 contentType: prose
 ---
 
-  
-
 Teď dávej pozor, Mňau, pohádka začíná.
 
 Skřivánek je hrouda s křidélky a s čímsi vytrvalým v hrdle; vzlétne jak vystřelený z praku a cvrliká a cvrliká, až se procvrlikal do čítanek. Už naši předkové si ho oblíbili a my, kteří se občas zatouláme do polí, ho taky máme rádi. Jenže skřivánek je tažný pták, zimuje ve Středomoří a tam ho lapou do sítí. V Itálii prý je vyhledávanou lahůdkou.
@@ -53,11 +51,15 @@ Ještě bych rád věděl, co se stalo s mým spolužákem Bydžovským a s j
 
 Doma na mne čekal vzkaz na záznamníku od jakéhosi Mrkvičky. Mám prý mu zavolat, nejlíp v podvečer, přes den má spoustu lítání. Anebo na mobil kdykoli, ten má pořád v kapse. Kvůli věži.
 
+  
+
 Lučištník jsem mizerný, Mňau, a nijak mě to nemrzí. Už jako dítě jsem byl špatný střelec, šíp mi klouzal z prstů, ještě než se mi podařilo napnout tětivu. Proč se mi zdálo zrovna o lukostřelbě?
 
 V dnešním snu jsem neměl na sobě nic jiného než toulec s šípy, v ruce jasanový luk s uvolněnou tětivou, bezradný bič; vypadal jsem jako přestárlý, degenerovaný amorek. Okaté děvče s ještěrkou se mi smálo a ještěrka se také smála, jako bych byl zdařilý kreslený vtip. „Nemohl byste zastřelit mou ještěrku?“ – „Takové milé zvířátko?“ – „Ať ji venčím, jak ji venčím, nemohu ji vyvenčit. Doma udělá hned u dveří loužičku. Není to na zabití?“ – Rád bych jí vyhověl, ale neměl jsem dost rukou, protože jsem musel schovávat ohanbí. Raději jsem utekl. – „Koupaliště je na druhou stranu!“ volala za mnou a nepřestávala se smát. Smála se i její nezbedná ještěrka. Šípy se v toulci natřásaly, chrastily. Minul jsem koupaliště a doběhl na liduprázdné náměstí, jenom tramvaj jednička se zvolna a neslyšně ubírala po úhlo­příčce náměstím. Na střeše seděl Vladislávek Raus, řehtal se jako vždycky a volal: „Eyjafjallajökull! Eyjafjallajökull!“ Taky jsem na něj zavolal: „Eyjafjallajökull,“ ale jenom jednou. Rázem bylo náměstí plné, tramvaj s Vladislávkem zmizela v davu. Bylo mi trapně, všichni ve svátečním, jenom já nahý. – Propadl jsem se studem do hlubiny k havířům. Všichni byli nazí a mně se ulevilo. Jenže havíři odložili lopaty, zastavili těžební stroje, utvořili kolem mne kruh, smáli se, prsty na mě ukazovali… Zjistil jsem, čemu se smějí: už jsem nebyl nahý, měl jsem na sobě smoking s bílou vázankou, na nohou bílé tenisky. – „A ven!“ zvolal štajgr, taky nahý, na hlavě červenou přílbu s lampou a pinďoura měl ve futrálu jako pyšný domorodec z Papuy-No­vé Guineje. Vyběhl jsem z šachty rovnou do náruče dvěma profesorům – pradějin a selektivní informatiky. „Za tohle budeš pykati!“ řekli profesoři, prahistorik mi začal kroutit nosem, zatímco druhý mi držel ruce. „Nechte ho! Je nevinný!“ volala z koruny lípy Růženka zruměnělá zlostí. „Pořád musíte někoho popravovat! Je to můj manžel před Bohem i před lidmi!“ Profesoři mě pustili a ten s bradavicí se dokonce omluvil, ale jenom Růžence. „Kde máš bundu, truhlíku?“ zeptala se Růženka s obavami. „Ať se mi nenastydneš.“ – Ano, kde mám bundu? Vězel jsem v nočním tričku s nápisem DOBROU NOC! na hrudi. Nohy jsem měl nepatřičně chlupaté. „Myju si ruce!“ řekla Růženka, slezla z lípy a odebrala se do kabinetu pro učební pomůcky: rovnostranný trojúhelník, kružidlo a barevné křídy. Opět se mě zmocnili profesoři a vlekli na popraviště, špičkami nohou jsem škrtal o dlažbu. Přivázali mě povříslem ke stromu s ufidlanými větvemi, vůkol plné tribuny, zástupy skandovaly: „Kebab! Kebab! Kebab!“ Zavřel jsem oči a uviděl švadronu lučištníků připravených k palbě. Stáli proti mně, mířili mi do očí. Sto dvacet jich bylo a chřípí se jim chvěla dychtivostí. „Oheň!“ zavelel podporučík a sto dvacet opeřených šípů s ocelovými hroty vyrazilo proti mně. Letěly zvolna, odhodlaně, seřadily se do dvojstupu, šedesát a šedesát, jeden za druhým, nepředbíhaly se, prolítly mi očima a mozkem, na druhé straně hlavy vylítly a spadly na zem. Ležela jich tam pěkná hromádka. Ani jsem je nestačil posbírat.
 
 Nediv se, Mňau, že mě bolí hlava ještě teď.
+
+  
 
 Za polem slunečnic jsme uviděli červené střechy a věž kostela, moderní, s obdélníkovým půdorysem, zvon zavěšený v železné kleci na vrcholu, nad klecí dřevěný kříž. Domy pod červenými střechami byly bílé. Nad věží kroužili dva ptáci, proti slunci nebylo možné určit, jakou mají barvu a jak jsou velicí, podle tvaru těla a způsobu letu to mohli být krkavci. Polní cesta ústila do silnice. Zaslechli jsme auto a už se nemuseli schovávat, a za ním další a taky v protisměru jela auta jedno za druhým. Byla jiná než ve Spáleném, jiných značek, větší a nablýskanější. Žádné si nás nevšimlo, nikdo nezastavil. Ignoroval nás i bílý brouk s nápisem Gendarmerie, plný četníků. Tak jsme došli na počátek úpravného městečka. Když jsme si na ceduli u silnice přečetli, jak se město jmenuje, podívali jsme se na sebe jako spadlí z nebe. Jako bychom nemohli pochopit, co ta dvě slova znamenají. Pak jsme se dali do smíchu. Smáli jsme se jako blázni, řehtali se jako Vladislávek Raus. Na ceduli bylo napsáno: NEU BRENNSTADT.
 
@@ -113,7 +115,11 @@ Ještě jsme museli završit to, co jsme si předsevzali a nestačili dokonat. 
 
 „Ať se tam někdo chytne za nos. Budou muset úředně zdůvodnit, proč jim cestu za hranice nepovolí,“ řekl pan Büchler.
 
+  
+
 _Vaše návštěva Vaší dcery z důvodu její vlastní svatby se zamítá. Není v souladu se státními zájmy. S pozdravem Oldřich Bastl, vedoucí oddělení._
+
+  
 
 Tak to mému tchánovi Milanu Bandymu napsali z oddělení ministerstva vnitra, které mělo v referátu přidělování pasů a cestovních doložek a zamítání cest občanů do kapitalistické ciziny. Na úřední dotaz starosty městyse Neu Brennstadt Hermanna Büchlera, s jakými zájmy není cesta v souladu, odpověď nedošla.
 
@@ -122,6 +128,8 @@ Naše svatba byla skromná a krásná. Taky svědky jsme měli, to se musí, ma
 „Ja!“ odpověděl jsem odhodlaně.
 
 „Ja,“ špitla Růženka. A přitom jsme nevěděli, jak zněla otázka. Políbili jsme se a vyměnili si prsteny, skoro stříbrné, vymalovali a vyzametali jsme si na ně sami. Pak jsme podepsali, čemu jsme nerozuměli, a to bylo uloženo v matrice města, které tu bylo postaveno snad jenom proto, abychom se v něm zachránili. Prsteny jsme si zase sundali a chvátali do kostela. Bylo tam plno, celé Nové Spálené se přišlo podívat, jak je Růženka krásná v bílých šatech z půjčovny. Obřad v kostele byl barvitější a snad i závaznější, neboť co Bůh spojí, to by mělo držet. Voněly tam kytky a kadidlo, cinkaly zvonky, linula se varhanní hudba a zbožné prozpěvování. Zopakovali jsme své ja před knězem, opět se políbili a navlékli si prsteny už napořád. – Před kostelem na nás čekalo překvapení: sedmero krkavců, Růženčiných bratrů, nás tam zasypalo několika kilogramy rýže – pro štěstí. Kde se tu vzali? Přilétli… A jak přiletěli, tak zase odletěli. – Svatební hostinu přichystala Johanna Klajn u Švarné šenkýřky v extrovně a pak nám dovolila ulehnout v jedné posteli.
+
+  
 
 V Neu Brennstadtu vydávali tiskovinu s názvem Neubrennstädter Blätter. Redakce byla na radnici a pan starosta občas přispíval. Taky o naší svatbě tu byl odstaveček. Šéfem a autorem většiny článků byl učitel němčiny ze základní školy Hasi Braun, vrstevník a kamarád. Plátek to byl sympatický, dobrá učební pomůcka. Louskali jsme jej se slovníkem v ruce od první až do poslední stránky, dozvěděli jsme se, co se v našem městečku v uplynulém týdnu přihodilo a co se v nejbližší době přihodit má, a navíc jsme přitom pochytili nová slova a větné vazby. Byl tam i dětský koutek: pohádka, básnička, jednoduchá křížovka, rébus, soutěž… Výtvarná úroveň nevalná.
 

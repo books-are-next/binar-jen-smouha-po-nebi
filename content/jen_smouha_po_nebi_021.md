@@ -3,8 +3,6 @@ title: XV
 contentType: prose
 ---
 
-  
-
 Byla to solidní loď – z ušlechtilého dřeva, tři piráti na palubě: Pankrác, Servác a Bonifác. Na stožáru se třepetala černá vlajka s bílou lebkou a zkříženými hnáty. Ušila a vyšila ji má sestra Anka pro své vnuky, aby se jim dobře loupilo a vraždilo. Byl bych raději, kdyby u domu místo lodi stála z toho dříví věž, dokonale postavená podle projektu architekta Poštovny. Potíž však spočívala ve zběhlém důlním tesaři Helebrantovi. Ještě jsem mu dával šanci, srpen byl v půli, ještě bylo léto a on slíbil, že začne na podzim a dílo do zimy dokončí. S věží se nezačalo, pirátská loď s tříčlennou posádkou už brázdí přilehlá moře spálenská. – Tomu Helebrantovi jsem řekl, že hledám někoho jiného, aby se zařídil. Chtěl ode mne sto tisíc odškodného, že jsem nedodržel smlouvu.
 
 „Jakou smlouvu, Helebrante? Ukaž!“
@@ -29,42 +27,60 @@ Obul jsem si pohorky, vzal flašku slivovice a vydal se za Hele­brantem zjisti
 
 Z maringotky zbyly jenom kovové části, ohořelé trámy a hromádka popela. Povaloval se tu lavor a plechový džbán, čajová konvice a smaltovaný hrnec. Na železné kostře postele spočíval zčernalý Helebrant, ohořelý, s vyceněnými zuby. – Sáhl jsem do kapsy pro telefon a zavolal na tísňovou linku.
 
+  
+
 Dneska se mi zdálo málo, Mňau. O cypřiších, slavících a vrabcích, o cypřiších v Bolgheri. A taky o spolknutém slunci. Takový sen se těžko lape, mezi prsty proteče, vyklouzne a zmizí. Co se zdá, je sen! Ale co když má snová existence větší smysl než každodenní klopýtání z práce do hospody, od supermarketu k televizoru? Co když je sen letmým pohledem do skutečné existence… Jednou tam zůstaneme napořád.
 
 Zahlédl jsem alej cypřišů, ve dne plná vrabců, v noci slavíků; zelení hadi polykají ptákům mláďata, a moře večer slunce polyká.
+
+  
 
 Dubům a nám zde můžeš svěřit hoře,  
 jež trápí tě a říci o svém bolu.  
 Viz jen, jak klidný azur je i moře,  
 jak s úsměvem v ně slunce klesá dolů!
 
+  
+
 Viz hejna na západě za přeletu,  
 viz, jak se vrabci vesele tu vadí!  
 Slavičí klokot v noci slyšet je tu:  
 zůstaň, nech přeludu, jenž tebe svádí –
+
+  
 
 přeludu temného, jenž nad hlubinu  
 srdce, zle myšlenkami ubitého,  
 šlehá jak plamen ze hřbitova stínu  
 za těmi sahá, kdo jdou kolem něho.
 
+  
+
 Zůstaň; my zítra v poledne, až líně  
 ve stínu dubů budou koně státi  
 s tlamami k sobě vše schvátí,
+
+  
 
 my, cypřiše tvé, zpívat budeme ti  
 chóry, jež věčně ve vzduchu se chvějí,  
 a z jilmů nymfy uzříš vycházeti,  
 jichž závoj zavlá po tvém obličeji;
 
+  
+
 _a věčný Pan, jenž po výšinách těká  
 i pustou rovinou teď v osamění,  
 svár starostí, jenž padá na člověka,  
 svou božskou harmonií v soulad změní._
 
+  
+
 Splývám s vlnami a pátrám po utopeném slunci, co bychom si bez něj počali! Kde bereme tu jistotu, že se zas ráno objeví? Popadl mě strach z konečnosti. Všecko jednou skončí, i slunce. A co když skončilo už dnes a zítra nevyjde? Plaval jsem pod vodu, do útrob moře, plaval a plaval, propracovával se masami vod, ale v té černočerné tmě jsem žádné slunce nenahmatal…
 
 Neškleb se, Mňau, sen si nevybereš.
+
+  
 
 Když něco dobře poznáš, přiroste ti to k srdci, Mňau, byť by to bylo třeba Spálené; i samozvanou kočku, která se lísá, jenom když má hlad, si můžeš oblíbit. Co mě drželo ve Spáleném? Copak jsem tam byl dobrovolně, ve městě ukradeném jeho původním občanům? Vždyť mě tam přihnali násilím. Přesto jsem tři dny váhal, jestli se Růženka rozhodla správně. Měl jsem tu své jisté: komůrku u Švarné šenkýřky, tam se budu moci po vojně vrátit, a Růženku, musela by na mne čekat… Musela?
 
@@ -116,6 +132,8 @@ Už jsem se rozhodoval, že vystoupíme z žita, které ještě zbývalo poséc
 
 Správní sedláci by to dosekli teď, co když bude pršet, pomocníkům pohraniční stráže však padla. Dýl ani ň!
 
+  
+
 Do těchto míst, Mňau, musím vložit příběh vojína druhého ročníku Šiguta, abys porozuměla příštím událostem a uvěřila zdánlivě neuvěřitelnému. Nebýt mazáka Šiguta, můj život by se vyvíjel jinak a prasátko s kníry by se stalo čímsi hodným zmačkání. Jako bezděčná čmáranice průpiskou po okraji reklamního letáku při telefonování s někým užvaněným.
 
 Neméně důležitý je také desátník Zázvorka, velitel dvojčlenné hlídky. Jeho význam pro náš další osud spočívá v tom, že nebyl tam, kde měl být. Vzhledem k tomu, že nebyl přítomen, nemohl konat ani nařídit Šigutovi, aby konal on, jeho podřízený, v souladu s předpisy a posláním jednotky, ke které příslušeli, ani nemohl Šigutovi zabránit v činu, kterého se pak Šigut o své újmě dopustil. Ostatně také vojín prvního ročníku Doleček tu sehrává svou roli tím, že byl někde jinde: na ošetřovně, než měl původně být: na hlídce. Na ošetřovně byl kvůli průjmu. Snědl totiž sám, rychle a v ústraní obsah balíku od rodičů, aby se nemusel dělit. Proto musel v noční košili polykat živočišné uhlí a nemohl na hlídku. Místo něj šel s desátníkem Zázvorkou do služby mazák Šigut.
@@ -155,6 +173,8 @@ Byl jsem srab, ale nechtěl jsem, aby to Růženka věděla. Abych své srabstv�
 „Díky.“
 
 „Není zač,“ řekl Šigut a zamkl za našima patama.
+
+  
 
 Pili jsme vodu z potoka, klečeli přitom na kolenou jako při díkůvzdání, tekla nám po bradě, žbluňkala v útrobách, až jsme jí byli plní, až z nás přetékala. Už jsme byli za hraničními kameny, ale ještě v nás bylo napětí, ještě jsme byli na útěku. Co když se z houští vynoří hlaveň, vyřítí pes vycvičený na lidi a za ním přítel člověk v maskovací uniformě?
 

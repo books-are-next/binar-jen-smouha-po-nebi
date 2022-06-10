@@ -3,13 +3,13 @@ title: II
 contentType: prose
 ---
 
-  
-
 Dnes ráno mi jako potvrzení našich nadstandardních vztahů přinesla kočka Mňau půlku mrtvé myši – sama ji ulovila, sama ji zahubila – a trvala na tom, abych ji spořádal. Byla to zadní půlka, ta lepší, obě kýty a ocásek. Sama si ponechala myší přední: hlavu a hrudníček s pacičkami. Už to měla v sobě.
 
 „Neblázni, Mňau, mělas dělit podél, spravedlivě. Jak já k tomu přijdu, aby se mi podstrojovalo!“ Jenže Mňau si to nechtěla dát rozmluvit. „Nuže dobrá, já se tedy na oplátku rozdělím s tebou o rajče. Pakliže tě to nevyvede z míry.“
 
 Vyvedlo ji to z míry natolik, že už na myši netrvala. Provedli jsme oboustranně výhodný výměnný obchod: já jsem dal Mňau svou půlku myši a ona mi oplátkou svoji polovinu rajčete.
+
+  
 
 Počátek nového příběhu se člověku vryje do mysli hlouběji než jeho průběh. Přestože je to tak dávno, mám všechno v živé paměti. Měli v tom pořádný zmatek. Bylo vidět, že to dělají poprvé, že s tím nemají žádné zkušenosti. V pozdním podzimu nás zahnali do Spáleného. – Tam je to pro vás, holoto, dobré dost!
 
@@ -71,9 +71,13 @@ Doběhli jsme k bílé čáře nalajnované fotbalovou lajnovačkou přes celou
 
 „Však počkejte, hajzli, moc se nesmějte,“ volali na nás zadýchanými hlasy. „To ještě není všecko!“ – Ale my jsme se ani trošku nesmáli.
 
+  
+
 Copak můžeme žít neustále ve strachu? Podělaní až za ušima? Můžeme, co bychom nemohli… Strach se do nás vryl a důvod, proč se bát, nepominul. I kdyby důvod pro strach pominul, strach nepomine. Možná zeslábne, tichý jako pěna ukryje se v útrobách, občas vyjukne a zalomcuje s námi; stačí vzpomínka na strach minulý – vzpomínkám se ubránit nemůžeme – a je tu zas. Co bylo možné kdysi, lze i teď. Byli jsme vylosováni jako nepřátelé lidu a s nepřáteli se nikdo nemazlí.
 
 Když jsem si uvědomil, že Bydžovský ani Kvitko nebyli vylosováni s námi, notně se mi ulevilo, kdekdo o nich věděl, co jsou zač. Jenže co vím třeba o panu Rausovi a jeho zpomaleném Vladislávkovi… Mohu důvěřovat profesoru Zarašovskému a jeho andílkovi Zuzičce, ačkoli o nich toho vím nejvíc? Co vím o těch ostatních? – Strach ze mě spadl; opustil pelíšek v mém nitru, prolítl útrobami a pryč! Kdyby nás chtěli zahubit, už bychom to měli za sebou. Třeba nás potřebují… Jsme na jedné lodi v nevlídných vodách, společný osud z nás činí spojence.
+
+  
 
 Sny nemají pevné obrysy, přesnost, uchopitelnost, protečou mezi prsty. Všechno je tu neurčité, prchavé. Krajiny se prolínají, pohlcují navzájem, proměňují se v prázdnotu. Osoby mění identitu i pohlaví, také čas plyne, jak si umane. Se snem nemůžeme nakládat, a přesto je naší součástí. – Měl jsem mít přednášku v hospodě s kuželnou. Proč? O čem? Sál s jevištěm se plnil, tolik lidí! – Procházel jsem se po zahradě a rovnal si myšlenky, přestože jsem si všechno sepsal, abych se nezasekl. Kus papíru a na něm klíč k pochopení světa. Držel jsem ho v ruce, hleděl do něj… A najednou byl pryč. Vyklouzl do trávy a zmizel i s myšlenkami, zem se po něm slehla… Rozhodl jsem se, že budu mluvit spatra. Vstoupil jsem do sálu a nikdo už tam nebyl. V kuchyni u plotny stála žena bez obličeje, kouřila dýmku a míchala jíšku. Ukázala vařečkou ke dveřím, za dveřmi byl most přes Arno a na něm moje manželka Růženka s dítětem v náručí, dívala se na mne pobaveně. Otočila se zády a zahodila dítě do hnědých vln řeky, jako by to byl kus něčeho k ničemu.
 
@@ -82,6 +86,8 @@ Sny nemají pevné obrysy, přesnost, uchopitelnost, protečou mezi prsty. Všec
 „Učím pacholíčka plavat. Jednou se mu to bude hodit…“
 
 V tu chvíli jsem se probudil, vyskočil z postele a včas doběhl na záchod.
+
+  
 
 Ve Spáleném bylo pusto. Domy prázdné, některé zamčené, jiné s dveřmi dokořán. Ti, kdo tu byli před námi, jsou pryč. Odešli, aby nám uvolnili místo. Dokonce i kočky, a ty se dokážou zuby nehty držet domu, to víš sama nejlíp, odešly. Tramvajové koleje zrezivěly nepoužíváním. V parcích a v předměstských zahrádkách přerostlá tráva, také včely vylétly z úlů a vedeny královnami odbzučely do vyhnanství. Jenom králíci vyhopkali z otevřených králíkáren a vyhrabali si nory, vesele skotačili, oddávali se promiskuitě. Věrní psi se staženými ocasy opustili boudy, přervali řetězy a někteří se i s boudami na řetězu vlekli po stopách svých pánů, odhodláni vzít je na milost.
 

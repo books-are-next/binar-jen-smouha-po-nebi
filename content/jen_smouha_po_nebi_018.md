@@ -3,8 +3,6 @@ title: XII
 contentType: prose
 ---
 
-  
-
 Vypravil jsem se za třetí obzor a vzal si s sebou svačinu, cestou není žádná hospoda. Lid je líný chodit někam pěšky, a to má za následek úbytek hospod ve volné krajině, když k nim nevede asfaltka. Po siestě jsem se vydal nejdřív loukou za domem, kdysi tu vedla polní cesta. Kolektivizovaní zemědělci si zvykli staré cesty ignorovat a začali jezdit na traktorech třeba vzrostlým žitem nebo bramborami, všecko jedno. Chuj s tym!
 
 Kočku Mňau jsem potkal za domem, vyhřívala se na sluncem ozářeném stavebním dříví. Trámy a trámky, prkna, latě a laťky tam čekají na ožralu Helebranta. Nechtěla jít se mnou, kočky ze zásady nedělají zbytečné pohyby. Hnípala na vyhřátém dřevě a čekala, až se nepozorný ptáček, kočičí potrava, dopustí své poslední chyby.
@@ -13,9 +11,13 @@ Kočku Mňau jsem potkal za domem, vyhřívala se na sluncem ozářeném stavebn
 
 Když jsem se vrátil, Mňau už za domem nebyla. Jenom větřík si na prknech a trámech pohrával s ohlodanými sýkorčími křidýlky.
 
+  
+
 Svět snů je souběžnou skutečností; je stejně opravdický jako svět, v němž se pohybujeme bdělí. Není to dárek navíc, odměna za statečnost v boji s každodenností, je to součást bytí. I ve snu žijeme. Vracíme se do míst, kde jsme už byli, do dějů, které se udály, a teď v nich budeme pokračovat.
 
 Zase tu proudili mravenci v sevřených zástupech; bylo jich, až to budilo podezření, že se někde za rohem spojují v kruh a vracejí se zpátky, rotují před mýma očima, jeden jako druhý, k nerozeznání. – Na zeleném sofa seděla návštěva: hubená paní s děvčátkem v šedém svrchníčku a bílých punčochách, na hlavě bezbarvý klobouček se zanedbatelnou stříškou, bezbarvé cůpky s bezbarvými mašlemi. Seděly způsobně s koleny u sebe, a když jsem vešel za mravenci, ani se nepohnuly, na pozdrav neodpověděly, jako bych nebyl. – Co když nejsem? Kousl jsem si do palce levé ruky a ukousl první článek s nehtem. Prohlížel jsem si ho pečlivě a necítil žádnou bolest. Bylo to znepokojivé. V tu chvíli se návštěva na sebe podívala, zachichotaly se, řekly: „On neví, že mravenci mají zdatná kusadla.“ Samozřejmě to vím, ví to každý. Shlédl jsem k podlaze a zjistil, že mravenci mi užírají nohy. Každý si jednou kousl a odnesl to pryč. Už jsem neměl boty, ponožky, chodidla a nárty, už mi odnášejí kotníky, berou to i s kostmi, a chystají se na lýtka a holeně. Zvolna jsem poklesával, obzor se snižoval. Nic jsem necítil, ani když se pustili do citlivého orgánu a návštěva se cudně odvrátila, ani lehké zašimrání. Jen jsem tiše mizel, až jsem se ztratil docela.
+
+  
 
 Dlouho jsme, Mňau, nemluvili o Dulinovi, o psu podobném lišce, který odešel od svých lidí a potloukal se Spáleným. Na rozdíl od Miloše Mucišky, kterého Soňa vyhnala, odešel Dulina z vlastního rozhodnutí, po zralé úvaze. Měl trochu konzervativní názor na to, jak má vypadat rodina, a nehodlal se ho zříct: jeden otec, jedna matka, libovolný počet dětí, jeden pes. V takové rodině hodlal žít, do takové by se třeba vrátil. Zatím však vedl osamělý psí život, hladový a toulavý. Živil se myšmi a potkany, v nouzi slupl hlemýždě s ulitou, aby měl dost vápníku, ani žábou v nouzi nepohrdl. Když dostal chuť na sladkost, musel k popelnicím. Kdysi mu lidé dávali zmrzlinu a náramně se bavili tím, jak ji dokázal schlamstnout i s oplatkem. Kdeže loňské sněhy jsou…
 
@@ -47,11 +49,15 @@ Kráčeli poli a lukami, pak lesem, prodírali se mlázím, plížili se bezov�
 
 Od těch dob, zrzavá kočko Mňau, toulavého psa podobného lišce ve Spáleném už nikdo nepotkal.
 
+  
+
 Byl jsem tenkrát plný Růženky a to naplnění Růženkou mi zůstalo hodně dlouho. Možná, Mňau, že ve mně kus Růženky – snad nějaký zaschlý trn – dodnes vězí. Měl jsem jí plnou hlavu a srdce, celý jsem jí byl plný, snad mi dokonce i z kapes čouhala. Vsadil bych se o jakoukoli částku, že Růženka byla čarodějnicí; kdyby ji upalovali, vzňala by se od první zápalky a jako vích by shořela.
 
 V té době se ve Spáleném děly děje a udávaly události, při nichž jsem měl být bdělý a ostražitý, jenže člověk plný Růženky nemůže být bdělý ani ostražitý; zapomene, že kůň má kopyta a mohl by kopnout, popřípadě rozdupat, že když se přiženou mračna, mohlo by z nich pršet. Ani jsem nepostřehl proměnu morového sloupu, muselo k ní dojít v noci. Ráno jsem čekal v hloučku na tramvaj a vůbec jsem si nevšiml, že místo Panny Marie s děťátkem stojí na podstavci žulový gardista. Ani ostatní čekající si ničeho nevšimli. Zajímalo nás, přijede-li tramvaj už anebo až za chvíli, nikdo nejevil známky znepokojení nebo údivu. Myslel jsem na Růženku a těšil se do práce, měli jsme spolu toho dne napsat báseň.
 
 Báseň o pěti verších přinesl Miloš Muciška, její původce. Nikdo ho nenutil, vytvořil ji sám, dobrovolně, aby vyjádřil svůj postoj; aby se vědělo, že je pro. Že s Milošem Muciškou je třeba počítat. Že je to náš člověk. Aby se vědělo, že Miloš Muciška má na srdci blaho dělnické třídy a ostatních pracujících, že právě jim, a především jim, píše své básně: aby se našim pracujícím v řetězárně lépe pracovalo, aby vyráběli více řetězů, tolik významných, nepostradatelných pro naše národní hospodářství a pro pokrok lidstva. Kupříkladu k přivazování zaoceánských lodí, aby samy od sebe neodpluly, dokud cestující nevystoupí a zboží nebude vyloženo. I takto silné řetězy, Mňau, se v naší řetězárně vyráběly. Ale i docela obyčejné k uvazování krav v kravínech nebo psů k boudám, vždyť řetěz najde uplatnění na mnoha místech, a čím víc jich naši pracující vyrobí, tím se budeme mít my všichni lépe a také světový mír se upevní. Proto napsal Miloš Muciška báseň, kterou jsme s Růženkou ve výzdobně n. p. Řetězárna psali velkými písmeny na rozměrné plátno. Bude umístěno ve výrobní hale, všem pracujícím na očích:
+
+  
 
 > ROZJELY SE TOVÁRNY,  
 > ROZTOČILY STROJE,  
@@ -59,11 +65,15 @@ Báseň o pěti verších přinesl Miloš Muciška, její původce. Nikdo ho ne
 > FRÉZO HORIZONTÁLNÍ,  
 > JEDINÁ LÁSKO MOJE!
 
+  
+
 Už včera jsme si báseň předkreslili tužkou, aby písmena měla správný rozpal. Nic trapnějšího nežli špatný rozpal nemůže takovou báseň potkat.
 
 Ani Růženka nevěděla, že místo Panny Marie zaujal na náměstí domobranný gardista, dílo socialisticko-realistického sochaře Gajdoše Gajdošíka, zasloužilého umělce. Nazval ji Neprojdou! s vykřičníkem, aby nepřátelé věděli, že neprojdou. Protože Růženka nejezdí do řetězárny tramvají přes náměstí jako většina, ale cárá se pěšky pěšinou, z jejich rodinného domku pro desetičlennou rodinu to má kousek. Růženka by si proměny všimla. Celý den jsme psali Muciškovu báseň a nevěděli o události, která se většiny občanů ani nedotkla.
 
 O záměně starého pískovce za novou žulu věděla Klára Claris­sima, protože okna její ložnice v hospodě U Švarné šenkýřky vedou na náměstí. Probudil ji rachot strojů, jemuž se ani při největší snaze o utajení záměny nedalo zabránit. Rameno netrpělivého autojeřábu nemělo se symbolem náboženského tmářství slitování. Snad to nebyl záměr, nejspíš neumětelství nebo jeřábníkova bezpříkladná nedbalost: sloup se po prudkém zásahu zřítil z podstavce a roztřískal se na kusy. Téměř neporušené zůstaly jen pozlacené svatozáře, solidní kovářská práce z festovního železa. S gardistou jednali v rukavičkách, když ho na korbě Tatry 111 uvazovali k háku jeřábu popruhy s gumovými a textilními vycpávkami a když ho pak upevňovali na uprázdněný barokní sokl. Podstavec nic nesymbolizoval a byl dostatečně pevný, aby také symbol nové doby unesl. Sloup s Pannou Marií a Ježíškem byl napadrť: větší kusy naložili za pomoci jeřábu, menší rukama, písek posmetali a naházeli na korbu stojedenáctky lopatami. Než se Klára stačila probrat a hodit něco na sebe, než stačila vyběhnout, aby se zeptala, co to má znamenat, auta odjela i s nočními dělníky, osvětlení pohaslo, na náměstí se rozhostil klid a tma tmoucí. Ráno stál na podstavci domobranný gardista s odhodlaným žulovým pohledem, v placaté čepici, s flintou přes rameno. Lid si toho ani nevšiml. Jako by se ho to netýkalo.
+
+  
 
 „Tys to věděl!“ vybafla Klára na Klápště hned ode dveří.
 
@@ -128,6 +138,8 @@ V mžiku vězel pan profesor ve svěrací kazajce, v ústech roubík.
 „Paradně. A pokuj božsky!“
 
 Bydžovský zleva, Kvitko zprava, vyvlekli profesora Zarašovského z radnice a zavlekli ho do přistavené sanitky. Několik náhodných chodců pobaveně přihlíželo, jak odvážejí starostu města. Byl mezi nimi taky Vladislávek Raus, smál se na celé kolo, jak to jen Vladislávek dokáže. Nejraději by se v takové pěkné sanitce vezl s panem starostou. Však počkej, ty jeden Vladislávku, třeba se taky svezeš.
+
+  
 
 Také Zuzička Zarašovská, Mňau, zmizela ze Spáleného. Nikdy jsem se nedozvěděl, kam. Zdenko Klápště tvrdil, že neví a že je to její věc; je už dospělá a může si dělat, co chce, co je mu, Klápštěti, do Zuzičky. Ani z Miloše Mucišky jsem nic nevypáčil. – Jaká Zuzička? Kdo to je? Copak tady někdo takový byl? – Když jsem se ptal v řetězárně, u výstupní kontroly nic nevěděli a na osobním oddělení mi řekli, že požádala o rozvázání pracovního poměru dohodou a že se dohodli: s okamžitou platností.
 
