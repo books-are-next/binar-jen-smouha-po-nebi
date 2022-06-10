@@ -3,8 +3,6 @@ title: XIII
 contentType: prose
 ---
 
-  
-
 Sháněl jsem člověka, který by mi posekal trávu na zahradě. Myslíš, Mňau, že jsem našel někoho, kdo by projevil zájem? Nikdo trávu nechce. Ani v okolních vesnicích jsem žádného s kosou nesehnal. Nechovají krávy ani ovce, nikdo tu nemá kozy ani králíky. Za ploty hafají rotvajleři, dogy a pitbulteriéři a ti trávu nežerou. Potraviny se nakupují v Penny Marketu, dokonce i mléko, maso, vajíčka. A jak lacino! Ani slepice se nepřehrabují na hnojištích. Kde by se tu vzala hnojiště? Ani na pivo do hospody místní obyvatelé nezajdou, pijou z flašky před obchodem nebo doma v garáži. Je to lacinější. A hořekují na nezaměstnanost, podpora že je malá, k uživení nestačí. Aby mi někdo za slušný peníz posekl zahradu, takový se nenajde. Poseč si ju sám, hrbe!
 
 Za domem se povaluje hromada stavebního dřeva – prvotřídní trámky a prkna, hoblované a impregnované proti vlhku – prorůstá jím tráva a luční kvítí už odkvetlé, léto je v polovici. Přece si, Mňau, ve svém věku a s těma plotýnkama nenakuju kosu!
@@ -29,9 +27,13 @@ Mávl jsem nad nimi rukou a ponořil se do houštiny za maringotkou. Po pár kr
 
 Nezbylo mi než nastartovat auto a zajet nějakých padesát kilometrů do Katerajnu, protože ve Spáleném takový obchod nemáme. V prodejně se zahradnickou technikou jsem koupil sekačku na přerostlou trávu Lucinu s výkonným japonským motorem Honda a u pumpy kanystr benzinu bez olova. Zahradu jsme posekali sami, s Lucinou. Zatímco jsem sekal, Lukáš s Gábinou nad mou hlavou učili svá letošní děcka lítat. V životě se jim to bude hodit. Nechtěla bys být, kočko Mňau, raději krkavcem?
 
+  
+
 Žlutý sen plný písku je tu zas. Doběla rozžhavený sen s písečnými mravenci, pilnými a kousavými. Zase ti mravenci… Skleněné střepy místo listí na keřích, rozlámané čepelky místo trávy, v suché řece vyschlý písek, písek v očích, mezi zuby, vítr plný písku. Jsem nahý v trní, v rozžhaveném trní napíchnutý na trn, jako kus masa na háku u řezníka, ťuhýkova potrava. Trn vězí pod lopatkou, prochází srdcem a plícemi, vpředu vyráží mezi žebry po pravé straně hrudní kosti, hrot směřuje k bradě. Zvolna se sesychám. Ale žiju, mohu pohybovat údy, otáčet hlavou, jak to, že necítím bolest? Zvedám ruce, abych na ně dohlédl, a vidím, jak se na nich kůže krabatí, kůže staré želvy, v cévách vyschla krev. Po rozpálené obloze přilétají ptáci bez peří, kostry s krkavčími zobany. Usedají na kostru smrku, odloupala se z něj kůra, opadalo jehličí. Otevírají zobáky: Neboj se, Antoníne, na každého jednou dojde, člověk umře, zvíře pojde. – Krkavci povyskočili a sesypali se na zem. Začal jsem se vrtět, abych se vyvrtěl z nabodnutí, bál jsem se, aby mě ťuhýk nesnědl. Ještě tu byli mravenci, valili se pode mnou, klapali kusadly, pídili se po potravě. Vtom se mě dopídili: Na něj! – Vrtěl jsem se, vrtěl, až jsem se vyvrtěl, zhluboka se nadechl a vystoupil ze sna.
 
 Vyskočil jsem z postele a běžel do koupelny napít se vody rovnou z kohoutku.
+
+  
 
 Oslava se měla konat v rasovně. Už dlouho jsme nic neslavili. Od té doby, co se Spálené po záplavách zalidnilo, nenašel se důvod k setkání. Ale copak jsme k sobě patřili? Jediné, co nás spojovalo, byla skutečnost, že jsme sem byli společně přihnáni. Zavazuje nás to, abychom drželi při sobě? Měli bychom snad, bude-li to zapotřebí, jeden pro druhého něco obětovat? Původní energie, která nám pomohla upalovat před gardisty a nezahynout, už vyprchala, rozptýlila se v neužitku a chaotickém těkání. Rozumíš, Mňau, co se ti pokouším sdělit? Z hloučku vyděšených štvanců tulících se k sobě, závislých jeden na druhém, rozprskli jsme se na všecky strany a objevili v sobě bezradné jedince. Povodeň nám přinesla jen větší prostor k rozptýlení. Ale mně darovala Růženku.
 
@@ -39,11 +41,15 @@ Napadlo to pana Rause a záminkou pro oslavu se staly Vladisláv­kovy čtyřic
 
 Pan Raus, ačkoliv byl přidělen do řetězárny, nezůstal tam dlouho. Mezi prasaty, která se do Spáleného přihrnula s lidmi a dalším zvířectvem, vypukla epidemie ošklivé nemoci – červenky, nemocné kusy musely být utraceny. Ve Spáleném byla obnovena funkce pohodného, jenže nikdo to nechtěl dělat, až pan Raus. Přihlásil se dobrovolně, vždyť bydleli s Vladislávkem v domku po rasovi. Jako jediný uchazeč byl přijat bez námitek, z okresu mu přidělili bagr, buldozer, nákladní auto s krytou plechovou korbou a plné skladiště chlorovaného vápna; k tomu oplocený pozemek za rasovnou a smaltovanou firemní tabuli s nápisem:
 
+  
+
 POHODNICE,
 
 komunální podnik,
 
 odp. vedoucí Vladislav Raus st.
+
+  
 
 Na pozemku za domem vybagroval pan Raus hlubokou jámu. Sváželi pak s Vladislávkem zdechliny z celého kraje, ze zemědělských družstev, státních statků a chovných stanic, ukládali je v jámě, zasypávali chlorovaným vápnem a vrstvou hlíny. Vladislávek zpočátku každé zvíře oplakal, ale po čase si zvykl. Jakmile bude jáma plná, zahrnou ji zbytkem hlíny a vybagrují novou jámu. Rasování byla práce odpudivá, ale svobodná, pan Raus měl při ní dost času na své záliby, kupříkladu na slivovici a vynalézání perpetua mobile. Jakmile červenka pominula, nemohli si Rausové stěžovat na pracovní přetížení. Otec se synem prožívali na pohodnici šťastné chvíle. Mohli být pospolu, práci si organizovali sami, nikým nekomandováni a nekontrolováni, komunální úředníci se jim vyhýbali velkým obloukem. Ani Klápště nezavítal na kontrolu. Rasování má něco do sebe. Pan Raus si tu založil zahradnictví. Kromě zeleniny pěstoval i krásu, vedle brambor, zelí a kedluben rozkvétaly v sousedství kadávrů zasypaných chlorovaným vápnem slunečnice, hledíky, astry a jiřiny, také růže voňavé. Ale jámu nepřevoněly.
 
@@ -51,17 +57,25 @@ Klára Clarissima navrhla, že bude vhodnější uspořádat oslavu Vladislávko
 
 Manželé Muciškovi se drželi za ruce; čtvrtou manželskou krizi měli za sebou, teď už je nic zlého nemůže potkat. Pokud zas neuhodí třeskuté mrazy… Miloš Muciška nějakou dobu pracoval v národním podniku Sběrné suroviny, ale už tam není. Stal se nepostradatelným na radnici, redaktorem lokálního měsíčníku Listy Spálené; psal úvodníky, zařazoval příspěvky dělnických dopisovatelů, každé číslo vyšperkoval povzbudivými čtyřveršími na titulní stránce. Kupříkladu:
 
+  
+
 > Únor bílý, pole sílí,  
 > dělníci do práce pílí.  
 > U strojů pak bez pokřiku  
 > budují republiku.
 
+  
+
 Nebo:
+
+  
 
 > V srpnu čilí družstevníci  
 > sklidí žito i pšenici.  
 > Celou svoji úrodu  
 > odevzdají národu. 
+
+  
 
 Klápště by se na radnici bez Mucišky neobešel. Soňa Mucišková se ujala knihkupectví, každý čtvrtek ji Knižní velkoobchod, národní podnik, zásoboval novými tituly v českém jazyce, chovala králíky a vedla domácnost; dcera Věra chodila do gymnázia, které se podle vzoru našich osvoboditelů oficiálně jmenovalo Jedenáctiletá střední škola ve Spáleném, dobře se učila a pokukovala po chlapcích, a ti pokukovali po ní. Jako dárek přinesla Vladislávkovi vlastnoručně uštrikovaného kulicha s pruhy v barvách duhy, s bambulí. Vladislávek si nasadil čepici, tuze se mu líbila, a podal Věrce ruku. Barokní ruku svatého Antonína.
 
@@ -118,6 +132,8 @@ Miloš Muciška se vrátil ze záchodu, zavelel svým ženám a odvelel je dom�
 „Neboj, mami!“ – Od té doby, co Růženka vstoupila do našich příjemných zvyklostí, familiární oslovení mami bylo téměř patřičné. Už jsme spolu nespávali, pečovala o mne a já jsem zlobil. Byl jsem darebák? Bylo to tak špatně? Rozhodl jsem se, že se ožením s Růženkou. Co nevidět jí bude osmnáct. Bude plnoletá!
 
 Popadl jsem láhev rausovky, letmo políbil Kláru a odebral se na poradu s flaškou do své světničky. Frostův pokojík byl prázdný, pozval bych ho na sklenku… Pil jsem sám, zvolna a vytrvale, vedl vnitřní monolog o harmonickém životě s nejkrásnější Růženkou na světě, o zázračných bytostech, které spolu zplodíme. Budu jim kreslit prasátka s kníry. Jen jsem litoval, že tu není Růženka se mnou, bylo by nám veselo. Zítra je neděle, hned ráno požádám Růženku o ruku, o ruku Růženčinu požádám jejího tatíka. Teď se na to napijeme spolu, milý Toníku…
+
+  
 
 Kdyby byla bývala nebyla po oslavě Vladislávkových čtyřicátin neděle, nebyl bych býval šel k Bandym požádat o Růženčinu ruku. Protože bychom se s Růženkou setkali v práci, třeba by mi to rozmluvila, vždyť máme ještě čas. Jenže neděle byla a v neděli pracovaly v řetězárně jenom nepřetržité provozy, což se naší výzdobny, Mňau, netýkalo.
 

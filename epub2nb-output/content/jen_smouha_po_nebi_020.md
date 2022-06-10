@@ -3,8 +3,6 @@ title: XIV
 contentType: prose
 ---
 
-  
-
 Máš se na co těšit, Mňau. Volala naše Anka, jestli by nemohli přijet s Petřinými kluky na pár dnů. Tráva je posekaná, věž se ještě nezačala stavět, co by nemohli. Vždyť jsou prázdniny. Kluci jsou dranti: osm, šest a pět roků, Pankrác, Servác a Bonifác – ale tak jim říkám jenom já, ve skutečnosti se jmenují jinak.
 
 Ještě jsem ti neřekl, jak je to s naší rodinou. Vždyť Anku jsem neviděl od té doby, co ji strčili do sirotčince, ani na maminčině pohřbu jsme se nesetkali, protože jsem tam nebyl. Všechny povinnosti hlavy rodiny, které příslušely mně, spadly na její hlavičku. Protože já jsem byl mimo dosah. Mohli jsme si tak leda psát; s vědomím, že to čte ještě někdo jiný. Celou tu dobu ji za mnou nepustili. Na každé notářsky ověřené pozvání, v němž jsem se zaručoval, že budu hradit všechny náklady její cesty a pobytu, že uhradím případnou lékařskou péči i eventuální pohřebné, kdyby v průběhu skonala, poslaly úřady naší Ance zamítnutí se zdůvodněním, že návštěva bratra v kapitalistické cizině není v souladu se státními zájmy. A tak jsme se setkali, až když jí Pankrác říkal babi, Servác s plínkami na zadečku svedl sedm kroků a Bonifác se vrtěl Petře v bříšku. Petra je má neteř, znal jsem ji jenom z obrázků.
@@ -49,11 +47,15 @@ Seděli jsme s Ankou na terase pod slunečníkem s reklamou na pivo Bernard a�
 
 „Do koupelny!“ zavelela babička Anka, svlíkla všechny tři a poskládala je do vany s teplou vodou, sotva se tam vešli.
 
+  
+
 Jako bychom ve snech žili jiný, přitom však souběžný život, druhou existenci. Tělo má jinačí substanci a duch se nechá vláčet snem. Vůle je utlumena, sen si s námi pohrává a my nevíme, co si počít, necháme se proto unášet.
 
 Opět jsem dnes v noci létal, Mňau. – Leť! říkalo mi cosi. Leť, leť, neboj se, vždyť to nic není a nebude to poprvé… A tak jsem letěl. Obloha byla černá, tma spolykala nebeská tělesa i matičku zem. Letěl jsem tmou, jako bych byl slepý, ale slepý jsem nebyl. Když jsem se podíval na ruku, viděl jsem bílý ciferník, černé cifry a žluté rafije hodinek. Vzápětí jsem míjel skupinku postarších lidí v andělských trikotech se zlatými flitry, se zplihlými křidélky – kurz létání pro pokročilé. Byli to penzisté z univerzity třetího věku. Jen aby něco nezmeškali! Snadno jsem je předlétl i s panem profesorem, zrovna jim objasňoval správné dýchání a koordinaci pohybů. Dělal z toho vědu. Ze tmy přede mnou se vynořily zprvu nezřetelné postavy: muž a žena. Připadali mi blízcí, jako bych je důvěrně znal, jako bych měl s nimi něco společného… Muž byl ve žlutém zmačkaném pyžamu, přes rameno mu povlával bílý cancour, neobyčejně dlouhá, úzká kravata. Nepřekážela v letu, malebně se za ním klikatila, bílá na černém pozadí. Žena měla na rameni brokovnici. Měl jsem pocit, že přede mnou letí moje štěstí. Konečně mi došlo, že jsou to rodiče. Drželi se za ruce, ale maminka byla o poznání vpředu, jako by tatínka vlekla za sebou. Byli průhlední jak hejno drobounkých mušek za letního smrákání. Tatínkova kravata byla spletená ze třech pruhů bílého plátna jako copánek malé Aničky. – Mami, tati, počkejteee! volal jsem na ně. Nemohl jsem je dohonit, a tak dlouho jsme se neviděli… Letíme napřed, musíme všechno nachystat, volala maminka. Copak netrefíš? volal tatínek přiškrceně, domů přece i kůň trefí! – Domů? – Ano, domů!
 
 V tu chvíli jsem ochabl a ztratil schopnost létat. Padal jsem, řítil se do hlubiny, Mňau, do postele tady ve Spáleném.
+
+  
 
 Když ti někdo, Mňau, zkroutí ruku za zády, stačí, aby ji trošku nadzvedl a kroutíš se jak paragraf, uděláš všechno, co ti poručí, jen aby s tím přestal. Když ti poručí, aby ses zasmál, zasměješ se, přitom ti budou slzy crčet z očí, řinout se rovnou na zem, protože jsi zkroucený v předklonu s nosem u podlahy a prosíš a slibuješ. Ale pozor! Co slíbíš se zkroucenou rukou, je nevymahatelné, k ničemu to nezavazuje, protože se tak stalo pod nátlakem.
 
@@ -163,6 +165,8 @@ Zatímco pan Raus čekal v buldozeru s motorem v chodu, náčelník ve vile s
 
 Zatímco pan Raus už se v buldozeru odhodlával k činu, únikovým východem se z vily vyplížil Bydžovský pomalovaný válečnými barvami, ozbrojený osobní zbraní, vyzbrojený dvěma granáty s litinovým pláštěm. Ve chvíli, kdy se pan Raus rozjel, hodil Bydžovský granát a předpisově zalehl, aby ho nesmetla tlaková vlna. Vladislávek v temném sklepě zpozorněl, venku cosi bouchlo: Bum!
 
+  
+
 Všechno, Mňau, co ti tu vykládám, dozvěděl jsem se zprostředkovaně, ničeho jsem se nezúčastnil, jako bych ani nebyl ve Spáleném, jako bych nebyl. Těžko se mi to říká, ještě dneska se stydím, byl jsem tenkrát strašně opilý.
 
 Na počátku byly Vladislávkovy narozeniny, hned po nich námluvy a flaška rumu s tchánem Bandym. Chtěl jsem zaběhnout pro další, ale táta nedovolil, zas musela Růženka. Pak jsem zaspal do práce a bylo mi špatně; strašně zle mi bylo, k umření. Kdybych se znovu nenapil, umřel bych na prázdnotu. Kořalka prázdnotu vyhnala a já jsem povyrostl a dostal novou žízeň. A kuráž. Přece nebudu lít do sebe březová košťata doma, u Švarné šenkýřky! – Vypravil jsem se na plzeň do Dělnického domu a skončil v kruhu muzikantů z divadelního orchestru, samí skvělí braši, ale nic nevydrží. O půlnoci se rozešli a hospoda se zavřela. Pozvracel jsem pomník Sbratření a pátral po skulince, kam bych se mohl uchýlit, na chvilku si zdřímnout, a pak hledat otevřenou hospodu. Na nádraží otevírají už v pět ráno. – Odhrnul jsem oponu rozdělující svět na dvě části a vhupnul do té lepší, schoulil se do klubíčka, usnul, a ráno se našel v cizině, v horách u Těrchové. Narodil se tam Juraj Jánošík, národní hrdina: _Keď ste si ma upiekli, tak si ma aj zjedzte!_ Za zvednutou oponou na mne hleděli tři geologové a jedna geoložka. Začali mi vyprávět historku o jednom opilci, který ve Spáleném vlezl na korbu nákladního auta s plachtou, jejich služebního vozidla.
@@ -192,6 +196,8 @@ Ano, celý jsem byl, jenže v zadní kapse kalhot vězela neotevřená úředn�
   
 
 Povolávací rozkaz, nástup 1. srpna do 18.00 hodin u vojenského útvaru v Horažďovicích. Tento povolávací rozkaz platí zároveň jako jednosměrná nepřenosná jízdenka pro Československé státní dráhy a Československou autobusovou dopravu.
+
+  
 
 To znamená jenom tam a už ne zpátky…
 
