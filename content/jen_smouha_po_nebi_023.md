@@ -3,6 +3,8 @@ title: XVII
 contentType: prose
 ---
 
+<section>
+
 V sytě zeleném trávníku rozkvetla bledě fialovými kvítky řeřišnice luční, jaro už je v plném proudu. Z trnek se sypou bílé okvětní lístky, ačkoli je větřík slabý, milosrdný. A také z třešní sněží okvětí, hlohy jsou ještě zakuklené do zelených, droboučkých kuliček. Ze své poustevny nad potokem to mám na náměstí asi čtyři kilometry. To je dobrá vzdálenost; když je potřeba, dojdu pěšky. Bez lidí se neobejdu, ale nemusím je mít pořád. Do města nakouknu jen zřídka, nakupuju hlavně v Penny Marketu, je to tam anonymní a mám ho po ruce, koupím tam i noviny. Kafe si vařím doma v prastaré italské mašince a do hospody mě už nic netáhne. Kdo nepije, nemůže vydržet kecy opilců po třetím pivu. Lezou z nich pořád stejné pitomosti kolem dokola. Jenom k pekaři zajdu, peče dobrý chleba, takový v Penny Marketu neprodávají.
 
 Někdy si udělám sentimentální procházku po starých místech. Místa zůstávají, ale k nepoznání změněná. Události, příběhy, které se tam staly, jsou dávno pryč, uzavřené nebo do ztracena vytroušené, jako by se nikdy nepřihodily; i ten člověk, já, kterému se tu cosi stalo, je už kdosi jiný. A vzpomínky? Jsou to ošidné zapomněnky zaprášené časem, dokreslované představivostí, překroucené, pulírované do bezúhonné krásy. Ani kameny nejsou trvalá hodnota, i s těmi se hýbe. – Domobranný gardista Neprojdou! leží pohozený za plotem pohodnice a hledí na žížaly, které se mu po dešti kroutí kolem nosu. Ještě je odhodlaný postavit se nepříteli dělnické třídy s puškou v ruce, s ohněm v srdci, ale musel by ho někdo zvednout. Morový sloup se vrátil na náměstí. Nechali ho zrekonstruovat podle dobových fotografií občané Neu Brennstadtu, zdejší rodáci a jejich potomci. Největší částkou přispěl Vinz. Tlach junior, majitel továrny na nábytek, kdysi jim tu patřila řetězárna. Vyhnaní krajané přispěli také na obnovu kostela svatého Antonína a hřbitova, mají na to spolek, ale ještě se do toho nikdo nepustil. Novou Marii s děťátkem přelíbezným vysekal zručný sochař Gajdoš Gajdošík, autor Neprojdou!, se synem Liborem Gajdošíkem, nadaným sochaříkem. Sám by to nezvládl, byl už v letech a síly ho opouštěly, ale takový kšeft si přece nemohl nechat ujít.
@@ -29,13 +31,17 @@ Láhev i cigarety zůstaly pro jinou návštěvu, Mrkvička je nekuřák a ři
 
 „Kecáš,“ zvolal jsem za ním, ale potichu, potichoučku, aby mě neslyšel. Co když nekecá?
 
-  
+</section>
+
+<section>
 
 Nemohu odpřisáhnout, Mňau, že to, co mě nad ránem pod postelí navštívilo, byl sen, protože jsem nespal. Vím to jistě: na hodinkách bylo 4:42, ciferník světélkuje, v obdélníku okna jsem tušil rozkvetlou větev švestky, první obzor s rozevlátou břízou a prořídlý lesík, hvězda žádná, zataženo, místy déšť. Uvědomoval jsem si teplo pod peřinou o to víc, že jsem musel vylézt. Večerní čaj mě vyhnal, ale vrátil jsem se a setrval v přívětivém teple. Slastný pocit! Nikam se nemusím hnát, nic neočekávám, jen tak jsem. V tu chvíli jsem se domníval, že klid a spokojenost mi zůstane už napořád. Och, jak jsem se mýlil! A přitom se nic nestalo. – Kde je nebe, je i peklo, nosíme to v sobě oboje. V přívětivém teple, bez příčiny, popadl mě strach. Strach z ničeho. Snažil jsem se schovat, přikryl jsem si hlavu peřinou, aby mě nebylo vidět, jako by to mělo přijít zvenku. Mezi matrací a pelestí jsem se protáhl až na podlahu. Na levém boku, s koleny u brady, v prachu a chmýří pod postelí chvěl jsem se děsem, jako by se vrahouni blížili k domu. Strach mi drnkal na žebrech, nebolelo to, bylo to strašné. Propadl jsem se na náměstí mezi básníky. Byli všude, i na tramvajových kolejích, a nebáli se, že by je mohla přejet jednička. Přede mnou se rozestupovali, abych mohl projít, mačkali se na sebe, šlapali si na nohy, ale nereptali, mlčeli. Vyhoupl jsem se na podstavec sochy Neprojdou!, domobranný gardista mi kryl záda připraven vystřelit. Básníci na mne hleděli a čekali, co jim řeknu. Měl jsem jim sdělit cosi podstatného, co nestrpí odklad. Týkalo se to každého a básníci to měli šířit, aby každý věděl a mohl se zařídit, aby se pak nemohl vymlouvat. Dívali se na mne a čekali, co ze mě vyleze. Báli se, že neuslyší, protože básníci mají slabý hlas, jenom špitají, když recitují svoje verše, aby je nebylo slyšet ani v první řadě, aby všem unikla podstata sdělení. Mysleli si, že i já budu nezřetelně špitat. – Stál jsem před básníky a nevěděl jak začít. Ani jsem nevěděl, co mám básníkům vykládat, snad se to dostaví, až otevřu ústa. Otevřel jsem ústa a začal dávit chuchvalce chlupů. Byly to tvoje chlupy, Mňau, lezly ze mne a padaly na básníky, zatímco básníci mlčeli. Zvedl se vítr a chuchvalce kočičích chlupů se jim vznášely nad hlavami. Básníci se je pokoušeli polapit, ale žádnému se to nepodařilo. Až se jeden pozvedl z davu a rostl, už mu ostatní básníci sahali po prsa, po pás… – Stop! – V ruce držel drúzu namodralých polodrahokamů ukradenou v přírodopisném muzeu. „Co si to dovoluješ, spratku!“ zvolal hlasitě, mrskl po mně drúzou a srazil ze soklu mne i gardistu.
 
 Přece jenom to byl sen. Probudil jsem se pod postelí, Mňau, a byla mi příšerná zima.
 
-  
+</section>
+
+<section>
 
 Naše vídeňská studia se nachýlila ke konci, už byl nejvyšší čas pustit se do diplomové práce, ale nic kloudného mě nenapadalo. Růženka už pilně hnětla z kaolinu komplikovanou abstraktní plastiku, kompozici OP 24, vzepětí ducha, křehký porcelán kombinovaný s hrubým šamotem a chirurgickou ocelí. V noci vyskakovala z postele, jako kdyby hořelo, rozsvěcela a kreslila si u kuchyňského stolu nápady, zapisovala poznámky, a já pořád nic.
 
@@ -93,7 +99,9 @@ S návrhem smlouvy přijel asi za měsíc do Vídně. Měl tam jednání: se mn
 
 „Beru,“ řekla Růženka po napínavé chvíli. Pak jsme to šli zapít do Švejcárny v Prátru. Kolarik & Buben tam čepujou plzeň, roznášejí vepřová kolena a taky cmundu.
 
-  
+</section>
+
+<section>
 
 Nakladatelství Giuseppa Innocentiho v Livornu na tom nebylo špatně, když nám mohlo poskytnout něco tak úžasného, jako byla usedlost v katastru městečka Bolgheri.
 
@@ -124,3 +132,5 @@ Růženka! Zděsil jsem se, Mňau. Vždyť já jsem zapomněl na Růženku, na s
 Seděla u otevřené pece, z třísek na podpal si v ní udělala malý ohýnek. Přikládala třísky, hleděla do plamenů a zpívala si táhlou cikánskou písničku. Na hrnčířském kruhu stál trpaslík v nadživotní velikosti, kolorovaný, v hnědých kalhotách a žluté jupce, se zelenou zástěrou a červenou čepičkou, pohled upřený do zdi.
 
 Ten trpaslík měl moji tvář.
+
+</section>

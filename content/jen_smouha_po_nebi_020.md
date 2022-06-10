@@ -3,6 +3,8 @@ title: XIV
 contentType: prose
 ---
 
+<section>
+
 Máš se na co těšit, Mňau. Volala naše Anka, jestli by nemohli přijet s Petřinými kluky na pár dnů. Tráva je posekaná, věž se ještě nezačala stavět, co by nemohli. Vždyť jsou prázdniny. Kluci jsou dranti: osm, šest a pět roků, Pankrác, Servác a Bonifác – ale tak jim říkám jenom já, ve skutečnosti se jmenují jinak.
 
 Ještě jsem ti neřekl, jak je to s naší rodinou. Vždyť Anku jsem neviděl od té doby, co ji strčili do sirotčince, ani na maminčině pohřbu jsme se nesetkali, protože jsem tam nebyl. Všechny povinnosti hlavy rodiny, které příslušely mně, spadly na její hlavičku. Protože já jsem byl mimo dosah. Mohli jsme si tak leda psát; s vědomím, že to čte ještě někdo jiný. Celou tu dobu ji za mnou nepustili. Na každé notářsky ověřené pozvání, v němž jsem se zaručoval, že budu hradit všechny náklady její cesty a pobytu, že uhradím případnou lékařskou péči i eventuální pohřebné, kdyby v průběhu skonala, poslaly úřady naší Ance zamítnutí se zdůvodněním, že návštěva bratra v kapitalistické cizině není v souladu se státními zájmy. A tak jsme se setkali, až když jí Pankrác říkal babi, Servác s plínkami na zadečku svedl sedm kroků a Bonifác se vrtěl Petře v bříšku. Petra je má neteř, znal jsem ji jenom z obrázků.
@@ -47,7 +49,9 @@ Seděli jsme s Ankou na terase pod slunečníkem s reklamou na pivo Bernard a�
 
 „Do koupelny!“ zavelela babička Anka, svlíkla všechny tři a poskládala je do vany s teplou vodou, sotva se tam vešli.
 
-  
+</section>
+
+<section>
 
 Jako bychom ve snech žili jiný, přitom však souběžný život, druhou existenci. Tělo má jinačí substanci a duch se nechá vláčet snem. Vůle je utlumena, sen si s námi pohrává a my nevíme, co si počít, necháme se proto unášet.
 
@@ -55,7 +59,9 @@ Opět jsem dnes v noci létal, Mňau. – Leť! říkalo mi cosi. Leť, leť, 
 
 V tu chvíli jsem ochabl a ztratil schopnost létat. Padal jsem, řítil se do hlubiny, Mňau, do postele tady ve Spáleném.
 
-  
+</section>
+
+<section>
 
 Když ti někdo, Mňau, zkroutí ruku za zády, stačí, aby ji trošku nadzvedl a kroutíš se jak paragraf, uděláš všechno, co ti poručí, jen aby s tím přestal. Když ti poručí, aby ses zasmál, zasměješ se, přitom ti budou slzy crčet z očí, řinout se rovnou na zem, protože jsi zkroucený v předklonu s nosem u podlahy a prosíš a slibuješ. Ale pozor! Co slíbíš se zkroucenou rukou, je nevymahatelné, k ničemu to nezavazuje, protože se tak stalo pod nátlakem.
 
@@ -165,7 +171,9 @@ Zatímco pan Raus čekal v buldozeru s motorem v chodu, náčelník ve vile s
 
 Zatímco pan Raus už se v buldozeru odhodlával k činu, únikovým východem se z vily vyplížil Bydžovský pomalovaný válečnými barvami, ozbrojený osobní zbraní, vyzbrojený dvěma granáty s litinovým pláštěm. Ve chvíli, kdy se pan Raus rozjel, hodil Bydžovský granát a předpisově zalehl, aby ho nesmetla tlaková vlna. Vladislávek v temném sklepě zpozorněl, venku cosi bouchlo: Bum!
 
-  
+</section>
+
+<section>
 
 Všechno, Mňau, co ti tu vykládám, dozvěděl jsem se zprostředkovaně, ničeho jsem se nezúčastnil, jako bych ani nebyl ve Spáleném, jako bych nebyl. Těžko se mi to říká, ještě dneska se stydím, byl jsem tenkrát strašně opilý.
 
@@ -193,11 +201,15 @@ Ve vrátnici si mě nikdo ani nevšiml, na píchačce jsem zjistil, že nemám z
 
 Ano, celý jsem byl, jenže v zadní kapse kalhot vězela neotevřená úřední obálka, do vlastních rukou. Když jsem ji otevřel, vypadla mi z vlastních rukou na podlahu i s papírem v ní uloženým. V záhlaví bylo tučnými písmeny vytištěno:
 
-  
+</section>
+
+<section>
 
 Povolávací rozkaz, nástup 1. srpna do 18.00 hodin u vojenského útvaru v Horažďovicích. Tento povolávací rozkaz platí zároveň jako jednosměrná nepřenosná jízdenka pro Československé státní dráhy a Československou autobusovou dopravu.
 
-  
+</section>
+
+<section>
 
 To znamená jenom tam a už ne zpátky…
 
@@ -206,3 +218,5 @@ To znamená jenom tam a už ne zpátky…
 Beze slov jsem podal Růžence ten potištěný papír. Zmuchlala ho jako zkaženou kresbu a trefila se do koše.
 
 „Utečem!“ řekla bez váhání.
+
+</section>

@@ -3,13 +3,17 @@ title: VII
 contentType: prose
 ---
 
+<section>
+
 V podvečer se na pozadí temného mračna objevil červený létací balon. Stálo by za to se trochu prolítnout. Vzal bych tě s sebou, Mňau, kdybys chtěla. Ale myslím, že kočky nelítají rády. Myslím, že jste tvorové přízemní, spíš se zajímáte o dění pod povrchem, v dírách pod zemí. Pokud nejste zmlsané konzervami…
 
 Mému domu by slušela i věž čtvercového půdorysu, napsal mi architekt Poštovna e-mailem a poslal sedm skic, abych si vybral. Všech sedm je krásných, nakonec jsem se rozhodl pro tu s ochozem, bude z něj lepší výhled za třetí obzor… Jenže kdo mi ji postaví? Je konec června a každý den prší, vždycky v pozdním odpoledni. Přes den se vodou nasáklá zem ohřeje, z polí, luk a lesů stoupá pára, tvoří se mračna a k večeru to s okázalým rachotem a osvětlením spadne. Všechno naráz. A co spadlo, steče ze strání do potoka, valí se to přes silnici a přináší s sebou všechno možné: kusy klacků, ptačí hnízda, nezralé ořechy, kamení… na mostě jsem našel utopenou rybu, karasa. Co je moc, to je příliš. Hasiči pumpují vodu ze zatopených domů, mají na sobě tmavé pracovní oblečení se světélkujícími žlutozelenými pruhy, na zádech nápis HASIČI, aby se to vědělo, někteří si nasadili přílbu, kdyby padalo nebe… Korytem Husího potoka se valí hnědá voda. Je po dešti. Ze stromů se ulamují větve nasáklé napršenou vodou, promáčená veverka si hledá nový příbytek, v zaplavených zahradách se zrcadlí potrhané mraky. – Nechoď ven, kočko Mňau, co bys tam dělala! Místní rozhlas hlásí třetí stupeň povodňové pohotovosti: stav ohrožení. Budou se rozvážet pytle s pískem. Jakpak to asi prožívají myši? Utekly, odplavaly, nebo se utopily? Buď ráda, že mě máš. Co by sis ulovila v takové slotě?
 
 Když to přišlo poprvé, přívalová vlna měla skoro pět metrů a smetla všechno, co jí stálo v cestě. Něco takového nikdo nečekal. Jeden člověk se zachránil na střeše svého domku, zrovna měnil tři prasklé tašky. Rodina byla uvnitř: žena, kluci dvanáct a patnáct a sedmiletá holčička. Voda vyrazila okna a vtrhla do pokoje, začala plnit místnosti. Ten člověk na střeše to viděl, vylámal pár tašek a mezi trámy se spustil na půdu, tam popadl cosi železného a zuby nehty prorazil strop. V hodině dvanácté! Rodinní příslušníci se drželi trubky ústředního topení, temeny hlav se dotýkali stropu, hladinu už měli pod bradou a voda stále stoupala. O těch, kteří nepřežili, ti nebudu vyprávět, Mňau. Jedenáct jich bylo na Moravě: některé to smetlo a utopilo, jiní zemřeli zděšením.
 
-  
+</section>
+
+<section>
 
 Vyprávěný sen značně pokulhává za skutečným snem, slov je málo ke zprostředkování snové neurčitosti, nejasnosti, chvění, mrazení, mizení, stavů mysli i těla, neuchopitelnosti… Do snu o návštěvě a mravencích se prolnul sen o mrtvém traktoristovi.
 
@@ -17,13 +21,17 @@ Návštěva byla významná, konaly se nervózní přípravy, abychom se nedopus
 
 Takovýto sen se mi zdál tu noc před záplavami.
 
-  
+</section>
+
+<section>
 
 Do Kláry Clarissimy jsem se samozřejmě zamiloval a Klára Clarissima se do mne samozřejmě nezamilovala. Nebyla dnešní. Ale vykládej to, Mňau, mně v devatenácti. – Udivilo mne, jak to bylo snadné. Jakoby nic! Jak to bylo přirozené… A přece to bylo úžasné. Kolik o tom už bylo potištěno papíru, slova vznešená i prostá, a já jsem až dosud nevěděl, co se za nimi ukrývá. A tolik jsem to chtěl vědět. Vzdychal jsem Zuzičce pod okny a nevěděl, co by kdyby. Když se od ní vyploužil Muciška, připadal jsem si zrazen. Stala se mi křivda, vyčítal jsem jánevímkomu, jako by jánevímkdo byl odpovědný za moji bezradnost. A přitom to bylo tak snadné! Těla k sobě skvěle pasujou, pár doteků, zkrat… A je to! Můžeme se rozejít do svých domovů.
 
 Nechtěl jsem, abychom se rozešli, byl jsem Kláře vděčný. Jako by si cosi od úst odtrhla. Jako bych byl jejím dlužníkem. Zamiloval jsem se do Kláry, ale jinak než do Zuzičky. Bylo to hmatatelné, prožité, _konzumované._ Stalo se to. Domníval jsem se, že to je ta láska. Teď patřím Kláře. Jenže Klára Clarissima nechtěla, abych byl její. Co se stalo, bylo nám oběma k užitku. Já jsem to ještě nevěděl. Klára mě nechtěla mít. A tak jsme se rozešli do svých domovů…
 
-  
+</section>
+
+<section>
 
 Tenkrát ve Spáleném panovalo sucho. Sucho tak suché, že se ani trávě nechtělo růst a květiny jen vykoukly z louky, hned se zas vrátily pod zem. Studny vyschly, jenom hluboká studna v rasovně měla vody dost pro všechny. V Husím potoce také cosi teklo, bylo to hnědé, husté a smradlavé a nebylo toho moc. Z lesů přicházeli srnci s rodinami, a tak jsme pumpovali ze studny v rasovně i pro lesní zvěř.
 
@@ -55,7 +63,9 @@ V druhém voze se kymácel Zdenko Klápště, na hlavě měl kulatou čepici s�
 
 „Trramvaj!“ zvolal Vladislávek nadšeně a jeho er se vzneslo nad město, rozprostřelo se po rozpálené obloze. Kde se vzaly, tu se vzaly, objevily se na severozápadě mraky, přihnaly se k nám a pokryly celé nebe. Taktak jsme se stačili schovat pod podloubím. Jako když se zatáhne za řetízek, rázem byla z vyschlého Husího potoka Husí řeka, voda se vylila z břehů. Turbína se roztočila. Tramvaj se rozjela, nikým neřízena zmizela nám z očí.
 
-  
+</section>
+
+<section>
 
 Celý promáčený zavřel jsem okno ve svém pokojíku U Švarné šenkýřky. Ledva jsem zahákl kličku, vítr se obrátil a déšť se obul do skel. Šklíbil se zvenku, mlátil do okna, jako kdyby mu záleželo právě na mně, jako by se mi chtěl dostat pod kůži. – Mě nedostaneš! – Mohl bych se radovat, že jsem v teple a suchu, ale neradoval jsem se. Padla na mne tíseň. Je to potvora bezohledná, lis na duši. Snadno se protáhla škvírou mezi okenními rámy, pronikla by i molekulami skla nebo zdí by prošla, když si umane skočit někomu za krk, nic jí v tom nezabrání. – Seděl jsem za stolem s tísní v šíji zakousnutou a díval se na déšť, naslouchal jeho vytrvalým šepotům. Co mě to jenom napadlo, otevírat okno! Se záplavou vody vtrhla dovnitř ještě taky úzkost a vhupla mi do břicha. Nevšiml jsem si toho hned, přetahovali jsme se s větrem o rozevřené okenní křídlo. Jenže úzkost je svěrák, už se mi zabydlila v zažívacím traktu. Tíseň tísnila hlavu, úzkost úžila útroby. Na podlaze pod oknem se leskla napršená louže, hadrový kobereček vypil, co se do něj vešlo, ale na všechno nestačil. Chtělo se mi zvracet. Nešlo to. Nastala tma. Síly mě opustily. Tma tmoucí. Nerozsvítil jsem, ani se nesvlékl, jenom boty se mi podařilo rozšněrovat a setřást. Padl jsem do postele, ale ty dvě bestie mi nedaly usnout. S očima upřenýma ke stropu ležel jsem na zádech a čekal, nevím nač. Déšť neustával. Začaly se tahat o mou duši. Nejdřív se ve mně šťáraly, aby ji našly. Probíraly se ve střevech, všechno tam zpřeházely, nic nenalezly. Tíseň mě začala proklínat, vytrvalejší úzkost pokračovala v hledání, někde přece musí být. Našla ji v kalhotách.
 
@@ -76,3 +86,5 @@ Krkavci na tom byli lépe. Gábina seděla na vejcích čerstvě snesených a L
 „To jsem nevěděla, že ta mrcha straka je naše příbuzná,“ podivila se Gábina velmi.
 
 „Příbuzné si krkavec nevybírá…“ chlácholil ji Lukáš. Hnízdo měli ve zvonici kostela svatého Antonína nad Spáleným a od té doby, co jsme tam byli s Vladislávkem, je nikdo nevyrušil. Libovali si, že jsou pod střechou. Za tři týdny se z vajec cosi vyklube, za tři týdny snad už přestane pršet.
+
+</section>
