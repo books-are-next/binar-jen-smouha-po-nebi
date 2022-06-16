@@ -12,6 +12,8 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2022-03-08T00:00:00.000Z'
   isbn: 978-80-274-2190-9
+  edition: beletrie
+  publisherShort: mkp
 readingOrder:
   - promo.html
   - jen_smouha_po_nebi_005.html
