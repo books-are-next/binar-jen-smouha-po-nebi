@@ -5,10 +5,11 @@
   "title": "Jen šmouha po nebi",
   "author": "Ivan Binar",
   "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "binar-jen-smouha-po-nebi-c02a260",
-  "revision": "c02a260",
+  "identifier": "binar-jen-smouha-po-nebi-9d83935",
+  "revision": "9d83935",
   "readingOrder": [
     "promo.html",
     "jen_smouha_po_nebi_005.html",
@@ -36,8 +37,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Wed Jun 15 2022 05:46:05 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655271965848
+    "date": "Thu Jun 16 2022 07:22:47 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655364167356
   },
   "documents": [
     {
@@ -515,9 +516,9 @@
   ],
   "totals": {
     "all": {
-      "words": 60847,
-      "chars": 369065,
-      "ideas": 1310
+      "words": 60849,
+      "chars": 369076,
+      "ideas": 1312
     },
     "chapters": {
       "words": 60701,
