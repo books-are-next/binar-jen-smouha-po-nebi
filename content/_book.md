@@ -38,7 +38,7 @@ readingOrder:
   - jen_smouha_po_nebi_024.html
   - jen_smouha_po_nebi_025.html
   - jen_smouha_po_nebi_026.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
