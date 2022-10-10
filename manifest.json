@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "binar-jen-smouha-po-nebi-cc5c539",
-  "revision": "cc5c539",
+  "identifier": "binar-jen-smouha-po-nebi-beff140",
+  "revision": "beff140",
   "readingOrder": [
     "promo.html",
     "jen_smouha_po_nebi_005.html",
@@ -37,8 +37,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 14:00:56 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151256044
+    "date": "Mon Oct 10 2022 15:53:15 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417195428
   },
   "documents": [
     {
@@ -497,7 +497,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 138,
-      "chars": 890,
+      "chars": 891,
       "ideas": 14,
       "role": "about",
       "order": null,
@@ -517,7 +517,7 @@
   "totals": {
     "all": {
       "words": 60847,
-      "chars": 369076,
+      "chars": 369077,
       "ideas": 1310
     },
     "chapters": {
