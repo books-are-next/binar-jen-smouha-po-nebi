@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "binar-jen-smouha-po-nebi-58d006d",
-  "revision": "58d006d",
+  "identifier": "binar-jen-smouha-po-nebi-bb029ae",
+  "revision": "bb029ae",
   "readingOrder": [
     "promo.html",
     "jen_smouha_po_nebi_005.html",
@@ -37,8 +37,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 21 2022 10:43:44 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1666349024557
+    "date": "Fri Oct 21 2022 11:19:31 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1666351171560
   },
   "documents": [
     {
